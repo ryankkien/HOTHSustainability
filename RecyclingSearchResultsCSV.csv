@@ -1,0 +1,1365 @@
+ID,FacilityName,StreetAddress,City,PostalCode,Type,Phone
+0,Diaz Recycling,2517 E Fremont St ,Stockton,95205,CRV,(209) 263-5647
+0,Salinas Recycling,3706 McCall Ave ,Selma,93662,CRV,
+0,Go Green Recycling Inc,2214 Robindale Ave ,Stockton,95205,CRV,(209) 462-8473
+0,Perez Recycling II,17068 Rd 26 ,Madera,93638,CRV,(559) 681-1342
+0,Diaz Recycling,548 S Sacramento St ,Lodi,95240,CRV,(209) 368-1673
+0,Anderson Recycle Center,35442 Highway 41 ,Coarsegold,93614,CRV,(559) 760-5405
+0,BC Recycling,1145 Park Blvd ,Orange Cove,93646,CRV,(559) 735-9200
+0,San Benito Recycling,10 4th St ,Hollister,95023,CRV,(831) 636-1806
+0,Farmers Country Market,7672 Greenback Ln ,Citrus Heights,95610,CRV,(916) 725-4001
+0,Recycle OXBA,3053 E Shields Ave ,Fresno,93726,CRV,(559) 673-6463
+0,Mings Recycling Corp,3316 47th Ave ,Sacramento,95824,CRV,(916) 421-5054 ext.208
+0,Mammoth Disposal Recycling,59 Commerce Dr ,Mammoth Lakes,93546,CRV,(760) 934-2201
+0,Turlock Recycling,1020 S Walnut Rd ,Turlock,95380,CRV,(209) 668-6060
+0,Cal Sierra Recycling,14959 Camage Ave ,Sonora,95370,CRV,(209) 533-0445
+0,One Stop Recycling,810 B East St ,Hollister,95023,CRV,(831) 637-1321
+0,AMD Recycling,150 Howson St ,Gilroy,95020,CRV,(831) 754-5639
+0,AMD Recycling Inc,324 Kings St ,Salinas,93905,CRV,(831) 754-5639
+0,D C Metals,6849 28th St ,North Highlands,95660,CRV,(916) 344-0862
+0,Blue Line Transfer Inc,500 E Jamie Ct ,South San Francisco,94080,CRV,(650) 589-4020
+0,Clovis Recycling Center,710 Jefferson Ave ,Clovis,93612,CRV,(559) 299-7485
+0,Bairos Recycling Inc,2788 S Orange Ave ,Fresno,93725,CRV,
+0,Browns Supply Inc,219 Wye Rd ,Bishop,93514,CRV,(760) 872-6911
+0,Stockton Recycling Center,1533 Waterloo Rd ,Stockton,95205,CRV,(209) 942-2267
+0,Fresno Recycling,1701 S Orange Ave ,Fresno,93702,CRV,(559) 264-6303
+0,Danny Recycling Center,1745 Walsh Ave ,Santa Clara,95050,CRV,(408) 492-9033
+0,Sunshine Steel Enterprises Corp,8265 Belvedere Ave ,Sacramento,95826,CRV,(916) 451-7031
+0,Allan Co,2607 E Woodward St ,Fresno,93721,CRV,(559) 264-4804
+0,Mountain View Recycling Center,935 Terra Bella Ave ,Mountain View,94043,CRV,(650) 967-3034
+0,Penas Recycling Center,12094 Avenue 408 ,Cutler,93615,CRV,(559) 528-1661
+0,F & T Recycling,29424 Auberry Rd ,Prather,93651,CRV,(559) 299-8807
+0,The Buy Back,669 Gilman St ,Berkeley,94710,CRV,(510) 524-0113
+0,Dinuba Recycle Center,267 S Uruapan Way ,Dinuba,93618,CRV,(559) 528-6997
+0,Yolo Employment Services,660 6th St ,Woodland,95695,CRV,
+0,Western Metal Co,2910 S Cherry Ave ,Fresno,93706,CRV,(559) 264-6246
+0,Manor Market,3100 W Line St ,Bishop,93514,CRV,(760) 873-4296
+0,Schnitzer Steel Industries Inc,12000 Folsom Blvd ,Rancho Cordova,95742,CRV,(916) 985-4810
+0,Levis Iron and Metal Inc,2727 S Chestnut Ave ,Fresno,93725,CRV,(559) 233-3211 ext.1508725
+0,El Dorado Disposal,4421 Latrobe Road ,El Dorado Hills,95762,CRV,(530) 626-4141
+0,National Recycling Corp,1312 Kirkham St ,Oakland,94607,CRV,(510) 268-1022
+0,Solano Garbage Co,2901 Industrial Ct ,Fairfield,94533,CRV,(707) 437-8940
+0,Vacaville Sanitary Service Recycling Center,855 1/2 Davis St ,Vacaville,95687,CRV,(707) 448-2945
+0,Recology Dixon,302 N 1st St ,Dixon,95620,CRV,(707) 448-2945
+0,Ceres Recycling Center,3940 Moffett Rd ,Ceres,95307,CRV,(209) 541-0711
+0,H and B Recycling,521 S Stanislaus St ,Stockton,95203,CRV,(209) 933-9268
+0,A & S Metals,11340 Commercial Pkwy ,Castroville,95012,CRV,(409) 633-3379
+0,A & S Metals,1616 Angelo Way ,Modesto,95358,CRV,(209) 537-4766
+0,West County Resource Recovery,101 Pittsburg Ave ,Richmond,94801,CRV,(510) 231-4203
+0,A & S Metals,456 Brunken Ave ,Salinas,93901,CRV,(831) 424-3367
+0,Brogard Inc,470 Caletti Ave ,Windsor,95492,CRV,(707) 462-4745
+0,J J Recycling,23519 Robertson Blvd ,Chowchilla,93610,CRV,(559) 232-0283
+0,Mid Valley Recycling,1520 Meredith Ave ,Gustine,95322,CRV,(559) 706-3973
+0,Brunos Iron and Metal LP,3211 S Golden State Blvd ,Fresno,93725,CRV,(559) 233-6543
+0,Mariposa County Landfill Recycling Center,5593 Highway 49 N ,Mariposa,95338,CRV,(209) 966-5165
+0,J and M Recycling Inc,2205 Rice Ave ,West Sacramento,95691,CRV,(916) 372-4223
+0,A 1 Recycling #2,2259 W Tahoe St ,Caruthers,93609,CRV,(559) 309-0140
+0,Recycling Zone Inc,4989B Peabody Rd ,Fairfield,94533,CRV,(707) 396-0078
+0,Universal Service Recycling Merced Inc,450 N Tower Rd ,Merced,95340,CRV,(209) 944-9555
+0,El Dorado Disposal Service,580 Truck St ,Placerville,95667,CRV,(530) 626-4141
+0,El Dorado Disposal Service,3510 Palmer Dr ,Cameron Park,95682,CRV,(530) 626-4141
+0,S & D Recycling,1149 Kansas Ave ,Modesto,95351,CRV,(209) 572-0942
+0,Mid Valley Recycling,9900 Stephens St ,Delhi,95315,CRV,(559) 706-3973
+0,Universal Recycling Service Inc,3200 S El Dorado St ,Stockton,95206,CRV,(209) 944-9555
+0,Clovis Recycling,1059 Hoblitt Ave ,Clovis,93612,CRV,(559) 299-8807
+0,J L Recycling,731 Poplar Ave ,West Sacramento,95691,CRV,(916) 646-4846
+0,Marias Recycling Center,21813 Highway 33 ,Crows Landing,95313,CRV,
+0,J L Recycling,7547 Watt Ave ,North Highlands,95660,CRV,(916) 459-0814
+0,Diaz Recycling,6011 N El Dorado St ,Stockton,95207,CRV,(209) 570-0305
+0,Salinas Recycling,1368 Church St ,Sanger,93657,CRV,(559) 213-5449
+0,American Iron & Metals,1050 Brookside Dr ,Richmond,94801,CRV,(510) 233-0440
+0,Bay Counties Waste Services Inc,301 Carl Rd ,Sunnyvale,94089,CRV,(408) 566-1809
+0,GL Perez Inc,625 N Gateway Dr ,Madera,93638,CRV,(559) 673-6849
+0,Buy Back Inc,1405 W Shields Ave ,Fresno,93705,CRV,(559) 706-2096
+0,Go Green Recycling Inc,45 W Grantline Rd ,Tracy,95376,CRV,(209) 644-7007
+0,EOC Local Conservation Corps Recycling at Friant Trading Post,17108 N Friant Rd ,Friant,93626,CRV,(510) 304-1435
+0,Riverbank Recycling,2780 C Patterson Rd ,Riverbank,95367,CRV,(209) 863-8641
+0,Valley Springs Recycling,148 Main St ,Valley Springs,95252,CRV,(209) 772-9340
+0,Brambila Recycling,2330 BROADWAY ,SACRAMENTO,95818,CRV,(916) 643-5313
+0,J & D Recycling,1015 N Amphlett Blvd ,San Mateo,94401,CRV,(650) 685-1901
+0,Allan Co,2525 S Sunland Ave ,Fresno,93725,CRV,(559) 264-4804
+0,Los Botis Recycling,1217 9TH ST ,SANGER,93657,CRV,(559) 694-1204
+0,Go Green Recycling,1803 S STOCKTON ST ,LODI,95240,CRV,(209) 462-8473
+0,Capital City Recycling Inc,3185 LONGVIEW DR UNIT C,SACRAMENTO,95821,CRV,(916) 334-3591
+0,Go Green Recycling Inc,1600 MCCORMICK ST ,TURLOCK,95380,CRV,(209) 667-7766
+0,Recycling of Reedley,920 N Alta Ave ,Dinuba,93618,CRV,(310) 474-6177
+0,Jerry & Willie's Recycling,40091 Enterprise Dr Ste F,Oakhurst,93644,CRV,(559) 642-6444
+0,Brambila Recycling Co,5600 Freeport Blvd ,Sacramento,95822,CRV,(916) 643-5313
+0,Tokay Valley Recycling Inc,60 S Cluff Ave ,Lodi,95240,CRV,(209) 339-4990
+0,American Recycling,6981 Winton Way ,Winton,95388,CRV,(209) 947-0477
+0,Schnitzer Steel Industries Inc,11665 BERRYESSA RD ,SAN JOSE,95133,CRV,(408) 452-0777
+0,Diaz Recycling,5121 Holiday Dr ,Stockton,95207,CRV,(209) 321-5476
+0,American Recycling,15292 LIBERTY ST ,SAN LEANDRO,94578,CRV,(408) 515-9661
+0,Diaz Recycling,2509 A West Ln ,STOCKTON,95205,CRV,(209) 336-2543
+0,P & R Recycling,324 N Cherokee Ln ,Lodi,95240,CRV,(209) 518-7076
+0,All Sac Metals,5340 ROSEVILLE RD ,NORTH HIGHLANDS,95660,CRV,(916) 293-2342
+0,Central Valley Recycling,291 5th St ,Turlock,95380,CRV,(209) 632-4847
+0,River City Waste Recyclers,8940 Elder Creek Rd ,Sacramento,95829,CRV,(916) 383-5511
+0,Salinas Recycling,316 Commission St ,Salinas,93901,CRV,(831) 758-5357
+0,Valley Wide Recycling,1502 E Yosemite Ave ,MADERA,93638,CRV,(559) 790-4991
+0,American Recycling Company LLC,2070 Morgan Rd ,Modesto,95358,CRV,(209) 537-4410
+0,California Recycling Center,1642 Elgin Ave ,Dos Palos,93620,CRV,(559) 871-8329
+0,Salinas Recycling,2965 WHITSON ST ,SELMA,93662,CRV,(559) 513-3162
+0,Baeza Recycling,1500 DALLAS ST ,MODESTO,95358,CRV,(209) 581-9417
+0,Universal Service Recycling Inc,570 S 9TH ST ,MODESTO,95351,CRV,(209) 622-4040
+0,Sun's Pad & Foam Recycling,108 Medburn St B1,Concord,94520,CRV,(925) 246-7990
+0,Diaz Recycling,1049 W YOSEMITE AVE ,MANTECA,95337,CRV,(209) 263-5647
+0,Universal Service Recycling Inc,8455 24TH AVE ,SACRAMENTO,95824,CRV,(916) 233-3400
+0,Curbside Recycling,4825 E OLIVE AVE ,FRESNO,93727,CRV,(559) 718-3690
+0,Green Zone Recycling,225 Industrial Way Ste C,Woodland,95776,CRV,(530) 661-6800
+0,Mondragon Recycling Center,12944 S ELM AVE ,CARUTHERS,93609,CRV,(559) 706-4930
+0,Skee's Recycling,4628 E Thomas Ave ,Fresno,93702,CRV,(559) 255-8355
+0,Kings View Recycling Center,100 Air Park Rd ,Atwater,95301,CRV,(209) 358-7228
+0,Star Recycling Co,2221 SCENIC DR ,MODESTO,95355,CRV,(209) 204-6484
+0,Rodriguez Recycling,338 N YOSEMITE AVE ,OAKDALE,95361,CRV,(530) 988-6244
+0,Rodriguez Recycling,1362 E F ST ,OAKDALE,95361,CRV,(530) 988-6244
+0,TKO Recycling Inc,11493 FOLSOM BLVD ,RANCHO CORDOVA,95742,CRV,(888) 225-5856
+0,Martin's Recycling,6310 Chestnut St ,Gilroy,95020,CRV,(408) 910-4673
+0,Mid Valley Recycling,985 E MANNING AVE ,REEDLEY,93654,CRV,(559) 706-3973
+0,Dos Palos Recycling Co,1565 OLIVINA AVE ,LIVERMORE,94551,CRV,(209) 518-4771
+0,I Buy Recycling,3232 E VENTURA AVE ,FRESNO,93702,CRV,(559) 706-4106
+0,Granda's Recycling,1769 E MARIPOSA RD ,STOCKTON,95205,CRV,(312) 388-0892
+0,Sandoval Recycling,3317 HIGHWAY 132 ,La Grange,95329,CRV,(209) 984-6157
+0,A & S Metals,2901 N Highway 59 ,Merced,95348,CRV,(209) 722-7527
+0,JF Huerta Recycling,1264 E Gibson Rd ,Woodland,95776,CRV,(650) 814-9022
+0,Super Recycling,12400 AVENUE 416 ,OROSI,93647,CRV,(559) 696-6349
+0,Delta Scrap and Salvage Inc,1371 Main St ,Oakley,94561,CRV,(925) 754-1474
+0,Blue Front Recycling,2877 SOLANO AVE ,NAPA,94558,CRV,(916) 519-2040
+0,American Canyon Redemption Center,3915 Broadway St ,American Canyon,94503,CRV,(707) 853-4373
+0,Rai Recycling,7891 STOCKTON BLVD ,SACRAMENTO,95823,CRV,(916) 715-5990
+0,2 Sisters Recycling LLC,2390 FLORIN RD ,SACRAMENTO,95822,CRV,(916) 601-7735
+0,Granda's Recycling,890 N MAIN ST ,MANTECA,95336,CRV,(209) 239-4550
+0,A & S Metals Inc,2510 TECHNOLOGY DR ,LOS BANOS,93635,CRV,(209) 829-1943
+0,Watsonville Metals Company Incorporated,213 Dias Ln ,Watsonville,95076,CRV,(831) 728-1551
+0,Solorzano Recycling,18430 County Rd 102 ,Woodland,95776,CRV,(916) 218-2646
+0,Billionaire Family Recycling,1500 W El Camino Ave #532,Sacramento,95833,CRV,(916) 459-8189
+0,Refund Recycle Center LLC,2680 Old First St ,Livermore,94550,CRV,(925) 606-1435
+0,M & R Recycling,12811 E Brandt Rd Unit B,Lockeford,95237,CRV,(209) 365-3299
+0,Pacific Recycling,814 A ST ,GALT,95632,CRV,(916) 583-3301
+0,Town Clean Recycle Center,1600 BROADWAY ,PLACERVILLE,95667,CRV,(775) 223-9216
+0,Belen's Recycling,13639 E Manning Ave ,PARLIER,93648-9743,CRV,(559) 481-3330
+0,Ocean's Recycling,4551 MACK RD ,SACRAMENTO,95823-4532,CRV,(916) 508-0631
+0,Vargas Recycling,18754 E Hwy 26 ,Linden,95236,CRV,(209) 507-5631
+0,Valley Springs Recycling,197 E Saint CHARLES ST ,SAN ANDREAS,95249,CRV,(209) 772-9340
+0,Rodriguez Recycling,121 E GRANT AVE ,WINTERS,95694,CRV,(530) 988-6244
+0,CRV Recycling,1439 S CEDAR AVE ,FRESNO,93721,CRV,(559) 999-9705
+0,Rai Recycling,6234 AUBURN BLVD ,CITRUS HEIGHTS,95621-5202,CRV,(916) 715-5990
+0,Fry's Metals,1845 W WINTON AVE ,HAYWARD,94545,CRV,(510) 276-4344
+0,Ocean's Recycling LLC,5301 Fruitridge Rd ,SACRAMENTO,95820-5425,CRV,(916) 508-0631
+0,A Robinson Recycle Center,7246 Franklin Blvd ,Sacramento,95823,CRV,(916) 233-7694
+0,A Robinson Recycle Center,8126 SHELDON RD ,ELK GROVE,95758,CRV,(916) 600-3781
+0,M Lopez Recycling Inc,2835 NORWOOD AVE ,SACRAMENTO,95815,CRV,(530) 450-5109
+0,CR Recycling Co,5200 FRANKLIN BLVD ,SACRAMENTO,95820,CRV,(916) 969-3405
+0,Recycling Zone Inc,181A CLARK AVE ,PITTSBURG,94565,CRV,(707) 437-1301
+0,Pacific Recycling,8700 GREENBACK LN ,ORANGEVALE,95662,CRV,(916) 583-3301
+0,Gaytan Recycling,609 RIVERSIDE AVE ,ROSEVILLE,95678,CRV,(916) 239-9672
+0,Pacific Recycling,301 4TH ST ,RICHMOND,94801,CRV,(916) 583-3301
+0,Pacific Recycling,14301 SAN PABLO AVE ,SAN PABLO,94806,CRV,(916) 583-3301
+0,Go Green Recycling Salida,4931 Salida Blvd Unit A,Salida,95368,CRV,(925) 998-6612
+0,M & R Recycling,12351 MARTELL RD ,JACKSON,95642,CRV,(209) 365-3299
+0,Silva Recycling,6401 Rio Linda Blvd ,RIO LINDA,95673,CRV,(916) 701-3915
+0,Modesto Go Green Recycling,2413 Yosemite Blvd ,Modesto,95354,CRV,(209) 578-5857
+0,Valley Recycling Inc,19394 State Hwy 88 ,PINE GROVE,95665,CRV,(209) 772-9340
+0,Valley Springs Recycling,494 N MAIN ST ,ANGELS CAMP,95222,CRV,(209) 772-9340
+0,Planet X Recycling,9075 E Hwy 140 ,Planada,95365,CRV,(209) 410-8544
+0,Sonora Recycling,18647 Eagle Ridge Dr ,Sonora,95370,CRV,(209) 536-4214
+0,Stacey's Recycling Center,1805 Richland Ave ,Ceres,95307,CRV,(209) 484-0730
+0,M & R Recycling,313 PRESTON AVE ,IONE,95640,CRV,(209) 365-3299
+0,X-Change Recycling,2664 Jensen Ave ,SANGER,93657,CRV,(559) 479-0735
+0,Sanchez Recycle LLC,22012 E MANNING AVE ,REEDLEY,93654,CRV,(559) 593-3088
+0,Los Botis Recycling #2,5789 Anthony Ave ,TRANQUILITY,93668,CRV,(559) 694-1204
+0,Ada's Recycling,640 E Boronda Rd ,SALINAS,93906,CRV,(831) 240-9056
+0,Ada's Recycling,7925 SAN MIGUEL CANYON RD ,PRUNEDALE,93907,CRV,(831) 240-9056
+0,M Lopez Recycling Inc,400 EL CAMINO AVE ,SACRAMENTO,95815,CRV,(916) 275-8290
+0,C & M Recycling,107 S 2nd St ,Patterson,95363,CRV,(559) 706-7351
+0,Belen's Recycling,796 FRESNO ST ,PARLIER,93648,CRV,(559) 481-3330
+0,Devlin Road Transfer Station Buy Back,889 Devlin Rd ,American Canyon,94503,CRV,(707) 255-5200
+0,True Value,345 W Main St ,Woodland,95695,CRV,(916) 218-2646
+0,Go Green Recycling Inc,2066 W Yosemite Ave ,Manteca,95337,CRV,(209) 665-4030
+0,A & S Metals,1080 W BEACH ST ,WATSONVILLE,95076-5130,CRV,(831) 633-3379
+0,Salinas Recycling #2,1275 S MAIN ST ,SALINAS,93901,CRV,(831) 970-3114
+0,A & S Metals,644 E OLIVE AVE ,MADERA,93638,CRV,(831) 633-3379
+0,Mondragon Recycling Center,5688 S ELM AVE ,FRESNO,93706,CRV,(559) 706-4930
+0,Osornio's Recycling Center,647 W El Monte Way #F,Dinuba,93618,CRV,(559) 871-2667
+0,Sandoval Recycling,5471 7TH ST ,KEYES,95328,CRV,(209) 984-6157
+0,Granda's Recycling,2101 W RUMBLE RD ,MODESTO,95350,CRV,(312) 388-0892
+0,Granda's Recycling,1393 E YOSEMITE AVE ,MANTECA,95336,CRV,(209) 612-6161
+0,Clarissa's Recycling,1022 FRONTAGE RD ,RIPON,95366,CRV,(209) 496-0515
+0,Calwa Recycling,4545 E Church Ave ,Fresno,93725,CRV,(559) 824-5996
+0,Ivan's Recycling,7825 LICHEN DR ,CITRUS HEIGHTS,95621,CRV,(916) 790-4960
+0,M & R Recycling,741 S CHEROKEE LN ,LODI,95240,CRV,(209) 365-3299
+0,Valdez Recycling,9833 Kent St Ste 101,Elk Grove,95624,CRV,(916) 690-8833
+0,Ocean's Recycling LLC,9160 ELK GROVE FLORIN RD ,ELK GROVE,95624,CRV,(916) 508-0631
+0,N Leasing Company LLC,3911 Santa Rosa Ave ,Santa Rosa,95407,CRV,(707) 585-0511
+0,Novato Recycling Center,7576 REDWOOD BLVD ,NOVATO,94945,CRV,(800) 243-0291
+0,Gaytan Recycling,1001 SACRAMENTO AVE ,WEST SACRAMENTO,95605,CRV,(916) 239-9672
+0,Recology Davis,2727 2nd St ,Davis,95618,CRV,(530) 756-4646
+0,Santana Recycling,3740 BALSAM ST ,SACRAMENTO,95828,CRV,(916) 856-4734
+0,Norcal Recycling,800 Church St ,Roseville,95678,CRV,(916) 749-5889
+0,Brambila Recycling,370 SEBASTOPOL RD ,SANTA ROSA,95407,CRV,(916) 643-5313
+0,San Jose Metals Inc,1032 N 10th St ,San Jose,95112,CRV,(408) 293-4032
+0,Merced Recycling,455 15th St ,Merced,95340,CRV,(209) 722-4226
+0,ZARC International LLC,26 S Linden Ave ,South San Francisco,94080,CRV,(415) 215-8059
+0,Pleasant Hill Recycling Center,1320 Galaxy Way ,Concord,94520,CRV,(925) 689-3900
+0,VALCORE Recycling,38 Sheridan St ,Vallejo,94590,CRV,(707) 645-8258
+0,Tri Ced Community Recycling,33377 Western Ave ,Union City,94587,CRV,(510) 471-3850
+0,Vaca Recycling,1193 E Monte Vista Ave Ste B,Vacaville,95688,CRV,(707) 689-5023
+0,"Sanchez Cash For Cans, LLC",1468 44th Ave ,Oakland,94601,CRV,(510) 261-2966
+0,Petaluma Recycling Center,315 2ND ST ,PETALUMA,94952,CRV,(707) 763-4761
+0,Norcal Recycling,1811 DOUGLAS BLVD ,ROSEVILLE,95661,CRV,(916) 749-5889
+0,Alejandra's Recycling Center,1424 COFFEE RD ,MODESTO,95355,CRV,(209) 996-5997
+0,Discount General Merchandise,370 B ST ,FRESNO,93636,CRV,(559) 706-6399
+0,Gaytan Recycling,6220 FRUITRIDGE ROAD ,SACRAMENTO,95820,CRV,(916) 239-9672
+0,Sandoval Recycling,954 W MAIN ST ,TURLOCK,95380,CRV,(209) 984-6157
+0,Rios Recycling,452 NAPLES ST ,MENDOTA,93640,CRV,(559) 647-4449
+0,Contreras Recycling Center,17477 W WHITESBRIDGE AVE ,KERMAN,93630,CRV,(559) 360-2367
+0,Contreras Recycling,8676 S 8TH ST ,SAN JOAQUIN,93660,CRV,(559) 360-2367
+0,S V Recycling,8110 Junipero St ,Sacramento,95828,CRV,(916) 387-0177
+0,Rios Recycling,1639 N ST ,FIREBAUGH,93622,CRV,(559) 647-4449
+0,Ocean's Recycling LLC,6019 STOCKTON BLVD ,SACRAMENTO,95824,CRV,(916) 508-0631
+0,Clarissa's Recycling,615 PARADISE RD ,MODESTO,95351,CRV,(209) 496-0515
+0,Joyee's Recycling,1107 N LAKE ST ,MADERA,93638,CRV,(559) 514-0291
+0,Jorge Pereyra Recycling,1825 Academy Ave ,Sanger,93657,CRV,(916) 436-6117
+0,Recycling Zone Inc,1973 BROADWAY ST ,VALLEJO,94589,CRV,(707) 437-1301
+0,A & S Metals,1277 N DAVIS RD ,SALINAS,93907,CRV,(831) 633-3379
+0,Lemire's Recycling,120 S ORCHARD AVE ,VACAVILLE,95688,CRV,(530) 434-1017
+0,M & R Recycling,659 HIGHWAY 12 ,RIO VISTA,94571,CRV,(209) 365-3299
+0,Ranch Town Recycling Center,775 Lincoln Ave ,San Jose,95126,CRV,(408) 292-3333
+0,Story Road Recycling LLC,1303 Story Rd ,San Jose,95122,CRV,(408) 806-3881
+0,Sandoval Recycling,2000 N CENTRAL AVENUE ,CERES,95307,CRV,(209) 984-6157
+0,Petes Recycling,24476 Avenue 14 ,Madera,93637,CRV,(559) 317-7767
+0,Santana Recycling,1725 CAVALLO RD ,ANTIOCH,94509,CRV,(916) 856-4734
+0,Grey Bears,9835 NEWELL CREEK RD ,BEN LOMOND,95005,CRV,(831) 479-1055
+0,LTS Recycling,21727 W MANNING AVE ,SAN JOAQUIN,93660,CRV,(559) 790-6056
+0,Gaytan Recycling,6800 FRUITRIDGE RD ,SACRAMENTO,95820,CRV,(916) 239-9672
+0,KBJ Recycling,325 L St ,Sanger,93657,CRV,(559) 281-5501
+0,AAA Recycling,875 ATWATER BLVD ,ATWATER,95301,CRV,(209) 261-4405
+0,AAA Recycling,16385 W SCHENDEL AVE ,DELHI,95315,CRV,(209) 261-4405
+0,AAA Recycling,242 N MAIN ST ,LIVINGSTON,95334,CRV,(209) 261-4405
+0,Quiroz Recycling,2507 Nebraska Ave ,Selma,93662,CRV,(559) 856-4892
+0,Recycling of Reedley,640 E Dinuba Ave ,Reedley,93654,CRV,(559) 317-1659
+0,Hollister Recycling,1771 San Felipe Rd ,Hollister,95023,CRV,(831) 637-2254
+0,TopRecycling LLC,4900 ELK GROVE BLVD ,ELK GROVE,95758,CRV,(916) 758-1866
+0,Ashley Recycling,24117 Avenue 9 ,Madera,93637,CRV,(559) 718-9455
+0,Ocean's Recycling LLC,7421 W STOCKTON BLVD ,SACRAMENTO,95823,CRV,(916) 508-0631
+0,Santana Recycling,8363 FOLSOM BLVD ,SACRAMENTO,95670,CRV,(916) 856-4734
+0,Ada's Recycling,1949 FREMONT BLVD ,SEASIDE,93955,CRV,(831) 240-9056
+0,Clarissa's Recycling,3800 MCHENRY AVE ,MODESTO,95356,CRV,(209) 496-0515
+0,Our Planet Recycling SF,445V BAYSHORE BLVD ,SAN FRANCISCO,94124,CRV,(415) 866-6102
+0,Sanchez Recycle LLC,850 I ST ,REEDLEY,93654,CRV,(559) 593-3088
+0,Dreams Recycling LLC,15057 W WHITESBRIDGE AVE ,KERMAN,93630,CRV,(559) 846-9551
+0,J&D Recycling,3401 MIDDLEFIELD RD ,MENLO PARK,94025,CRV,(650) 685-1901
+0,J&D Recycling,99 SOUTHGATE AVE ,DALY CITY,94015,CRV,(650) 685-1901
+0,J&D Recycling,60 CABRILLO HWY NORTH ,HALF MOON BAY,94019,CRV,(650) 685-1901
+0,JL Recycling Co,3270 NORTHGATE BLVD ,SACRAMENTO,95833,CRV,(707) 529-2517
+0,Jose Recycling,3801 YOSEMITE BLVD ,MODESTO,95357,CRV,(209) 872-8431
+0,Eva's Recycling,2815 W Olive Ave ,Fresno,93728,CRV,(559) 519-8107
+0,Recycling Zone Inc,3300 PACHECO BLVD ,MARTINEZ,94553,CRV,(707) 437-1301
+0,Olyns,555 E CALAVERAS BLVD ,MILPITAS,95035,CRV,(866) 472-6432
+0,M Lopez Recycling Inc,4148 MONTEREY RD ,SAN JOSE,95111,CRV,(530) 450-5109
+0,DMR Recycling,1461 N St ,Firebaugh,93622,CRV,(559) 903-8052
+0,Contreras Recycling Center #3,850 NAPLES ST ,MENDOTA,93640,CRV,(559) 360-2367
+0,Our Planet Recycling SF LLC,250 13TH ST ,SAN FRANCISCO,94103,CRV,(415) 246-5503
+0,Our Planet Recycling SF LLC,265 WINSTON DR ,SAN FRANCISCO,94132,CRV,(415) 410-5574
+0,Gaytan Recycling,5885 STOCKTON BLVD ,SACRAMENTO,95824,CRV,(916) 239-9672
+0,Recycle Planet Inc,6935 Power Inn Rd ,Sacramento,95828,CRV,(916) 732-9253
+0,Valley Springs Recycling,18170 STATE HIGHWAY 49 ,PLYMOUTH,95669,CRV,(209) 772-9340
+0,Dinuba Mini Mart Recycling,10014 S ALTA AVE ,REEDLEY,93654,CRV,(559) 723-0104
+0,Gaytan Recycling,8038 GREENBACK LN ,CITRUS HEIGHTS,95610,CRV,(916) 239-9672
+0,Jesus Facility #2,12511 W G ST ,BIOLA,93606,CRV,(559) 430-4096
+0,JV Recycling,3021 SUNRISE BLVD ,RANCHO CORDOVA,95742,CRV,(916) 968-4189
+0,IB Recycling,2267 Northgate Blvd ,SACRAMENTO,95833,CRV,(916) 929-7460
+0,JADO Recycling,22330 HATHAWAY AVE ,HAYWARD,94063,CRV,(855) 857-8020
+0,Sunset Recycling Center,345 WILLIAMS AVE ,SAN FRANCISCO,94124,CRV,(818) 661-7387
+0,Jado Recycling,39200 PASEO PADRE PKWY ,FREMONT,94538,CRV,(855) 857-8020
+0,Dayanara's Recycling,1740 E 21st St ,Merced,95340,CRV,(559) 474-6720
+0,Santana Recycling,7007 S LAND PARK DR ,SACRAMENTO,95831,CRV,(916) 856-4734
+0,Tollhouse,1427 TOLLHOUSE RD ,CLOVIS,93611,CRV,(559) 706-6399
+0,Dreams Recycling LLC,15401 W California Ave ,Kerman,93630,CRV,(559) 846-9551
+0,Olyns,150 E EL CAMINO REAL ,SUNNYVALE,94087,CRV,(866) 472-6432
+0,Olyns,20620 HOMESTEAD RD ,CUPERTINO,95014,CRV,(866) 472-6432
+0,JADO Recycling,4650 MERIDIAN AVE ,SAN JOSE,95124,CRV,(855) 857-8020
+0,Valley Wide Recycling,37357 AVENUE 12 ,MADERA,93636,CRV,(559) 790-4991
+0,Olyns,3970 RIVERMARK PLZ ,SANTA CLARA,95054,CRV,(866) 472-6432
+0,Green World Recycling,3460 OAKDALE RD ,MODESTO,95355,CRV,(209) 566-4174
+0,Our Planet Recycling SF LLC,445V Bayshore Blvd ,San Francisco,94124,CRV,(415) 410-5574
+0,Recycle Transfer Reuse Recyco Inc,4585 E Olive Ave ,Fresno,93702,CRV,(650) 634-8449
+0,JL Recycling Co,1000 DOUGLAS BLVD ,ROSEVILLE,95678,CRV,(916) 459-0814
+0,JADO Recycling,46 FIFTH AVE ,REDWOOD CITY,94063,CRV,(855) 857-8020
+0,Jado Recycling,523 S SHORE CENTER W ,ALAMEDA,94501,CRV,(855) 857-8020
+0,Jiffy Lube,3927 McHenry Ave,Modesto,95356,UsedOil,(209) 578-5823
+0,Cal Sierra Recycling Center,14959 Camage Ave,Sonora,95370,UsedOil,(209) 358-1145
+0,Berkeley Oil Recycling Depot,1201 2nd St,Berkeley,94710,UsedOil,(510) 981-2489
+0,AutoZone #5319,4266 E Clinton,Fresno,93703,UsedOil,(559) 456-2248
+0,AutoZone #5316,4210 E Belmont,Fresno,93702,UsedOil,(559) 252-7327
+0,Solano Garbage Company,2901 Industrial Court,Fairfield,94533,UsedOil,(707) 437-8900
+0,Kniesel's Automotive,7649-A Sunrise Blvd,Citrus Heights,95610,UsedOil,(916) 722-1751
+0,Recology Vallejo,2021 Broadway,Vallejo,94589,UsedOil,(707) 552-3110
+0,Steve Hopkins Honda,2499 Auto Mall Parkway,Fairfield,94533,UsedOil,(707) 427-1000
+0,Jiffy Lube #0598,1130 N Main St,Manteca,95336,UsedOil,(916) 375-1155
+0,Davis Waste Removal Recycling Ctr,2727 2nd St,Davis,95618,UsedOil,(530) 756-4646
+0,Quality Tune-Up #14,1175 Fell St,San Francisco,94117,UsedOil,(415) 626-6446
+0,Dan's Auto Center,49329 Golden Oak Loop,Oakhurst,93644,UsedOil,(559) 683-6006
+0,Mariposa Landfill & Recycling Center,5593 Hwy 49 N,Mariposa,95338,UsedOil,(209) 966-5165
+0,Firestone #012580 Hayward,24019 Mission Blvd,Hayward,94544,UsedOil,(510) 582-2292
+0,Firestone #21199 Blackstone,6512 N Blackstone Ave,Fresno,93710,UsedOil,(559) 432-2448
+0,Firestone #024716 Clovis,790 Clovis Ave,Clovis,93612,UsedOil,(559) 323-0157
+0,Firestone #022985 Shaw Ave.,4330 W Shaw Ave,Fresno,93722,UsedOil,(559) 276-2221
+0,Firestone #029777 Fairfield,1340 Travis Boulevard,Fairfield,94533,UsedOil,(707) 426-1706
+0,Firestone #012645 Mission,1501 Mission Street,San Francisco,94103,UsedOil,(415) 621-4650
+0,Firestone #029815 Southland,715 La Playa Dr,Hayward,94545,UsedOil,(510) 783-0318
+0,Firestone #029947 Salinas,150 Northridge Shopping Ctr,Salinas,93906,UsedOil,(831) 449-4494
+0,Firestone #012785 Millbrae,1201 El Camino Real,Millbrae,94030,UsedOil,(650) 871-9096
+0,Firestone #015458 Newark,5795 Mowry Ave,Newark,94560,UsedOil,(510) 791-0495
+0,Firestone #015504 Antioch,3214 Delta Fair Blvd,Antioch,94509,UsedOil,(925) 706-0137
+0,Firestone #013463 Coddingtown,850 Coddingtown Ctr,Santa Rosa,95401,UsedOil,(707) 542-4265
+0,Firestone #023175 Vacaville,1200 E Monte Vista Avenue,Vacaville,95688,UsedOil,(707) 685-8741
+0,Firestone 007110 Watsonville,1099 S Green Valley Road,Watsonville,95076,UsedOil,(831) 724-2013
+0,Firestone #013056 Fruitridge,5781 Stockton Blvd,Sacramento,95824,UsedOil,(916) 454-0689
+0,Firestone #013064 Marconi,2547 Marconi Ave,Sacramento,95821,UsedOil,(916) 481-0534
+0,Firestone #017663 Roseville,8051 Washington Boulevard,Roseville,95678,UsedOil,(916) 783-0431
+0,Firestone #015199 Rancho Cordova,10407 Folsom Blvd,Rancho Cordova,95670,UsedOil,(916) 362-4141
+0,Firestone Store #021156 North Highlands,4637 Watt Avenue,North Highlands,95660,UsedOil,(916) 486-9807
+0,Firestone #015911 Milpitas,1379 S Park Victoria Drive,Milpitas,95035,UsedOil,(408) 945-3911
+0,Firestone #012858 Redwood City,1458 El Camino Real,Redwood City,94063,UsedOil,(650) 364-1900
+0,Firestone #012823 Fremont,40861 Fremont Blvd,Fremont,94538,UsedOil,(510) 657-5575
+0,Firestone Store #017655 Greenback,7895 Greenback Lane,Citrus Heights,95610,UsedOil,(916) 726-2462
+0,SpeeDee Oil Change & Tune-Up,6604 Folsom-Auburn Rd,Folsom,95630,UsedOil,(916) 988-0531
+0,Firestone #012882 Santa Clara,3161 El Camino Real,Santa Clara,95051,UsedOil,(408) 243-9644
+0,Firestone #029904 Richmond,1001 Hilltop Mall,Richmond,94806,UsedOil,(510) 222-4422
+0,Firestone #029734 Concord,715 Contra Costa Blvd,Concord,94523,UsedOil,(925) 689-2710
+0,Firestone #023574 Sunnyvale,922 W El Camino Real,Sunnyvale,94087,UsedOil,(408) 737-9900
+0,Firestone #23213 Broadway,2850 Broadway,Oakland,94611,UsedOil,(510) 451-0355
+0,Montezuma Fire Protection District Sta #18-1,2405 South B St,Stockton,95206,UsedOil,(209) 464-5234
+0,Auto Express,2842 Soquel Ave,Santa Cruz,95062,UsedOil,(831) 462-3323
+0,A&B TRUCK REPAIR A&B Truck Parts,959 S 9th St,Modesto,95351,UsedOil,(209) 527-6971
+0,M & R Automotive,1281 El Camino Real,Menlo Park,94025,UsedOil,(650) 325-3900
+0,SpeeDee Oil Change & Tune-Up,471 San Carlos Way,Stockton,95207,UsedOil,(209) 472-9272
+0,O’Reilly Auto Parts #3445,1800 Park Boulevard,Oakland,94606,UsedOil,(510) 444-3160
+0,O’Reilly Auto Parts #3446,401 Rodriquez St,Watsonville,95076,UsedOil,(831) 728-1437
+0,O’Reilly Auto Parts #3552,812 Francisco Boulevard West,San Rafael,94901,UsedOil,(415) 454-5881
+0,O’Reilly Auto Parts #3526,3855 Geary Boulevard,San Francisco,94118,UsedOil,(415) 668-5241
+0,O’Reilly Auto Parts #3470,3580 Sonoma Blvd,Vallejo,94590,UsedOil,(707) 644-0489
+0,O’Reilly Auto Parts #3481,1905 Tully Rd,San Jose,95122,UsedOil,(408) 923-7323
+0,O’Reilly Auto Parts #3482,800 Jackson Street,Hayward,94544,UsedOil,(510) 581-1051
+0,O’Reilly Auto Parts #3502,243 23rd Street,Richmond,94804,UsedOil,(510) 234-6364
+0,O’Reilly Auto  Parts #3473,4240 International Blvd.,Oakland,94601,UsedOil,(510) 532-1240
+0,O’Reilly Auto Parts #3447,3489 McKee Rd,San Jose,95127,UsedOil,(408) 259-9660
+0,O’Reilly Auto Parts #3468,2640 S. El Camino Real,San Mateo,94403,UsedOil,(650) 349-1275
+0,O’Reilly Auto Parts #3471,15604 Hesperian Boulevard,San Lorenzo,94580,UsedOil,(510) 276-7822
+0,O’Reilly Auto Parts #3477,420 W Lodi Avenue,Lodi,95240,UsedOil,(209) 369-1988
+0,O’Reilly Auto Parts #3464,35382 Newark Blvd,Newark,94560,UsedOil,(510) 792-9840
+0,O’Reilly Auto Parts #3474,2411 El Camino Real,Redwood City,94063,UsedOil,(650) 368-2831
+0,O’Reilly Auto Parts #3485,2024 A Street,Antioch,94509,UsedOil,(925) 754-1771
+0,O’Reilly Auto Parts #3497,1194 West Tennyson Road,Hayward,94544,UsedOil,(510) 887-7208
+0,O’Reilly Auto Parts #3476,5 Skyline Plaza,Daly City,94015,UsedOil,(650) 994-2650
+0,O’Reilly Auto Parts #3503,1720 Fremont Blvd,Seaside,93955,UsedOil,(831) 394-1472
+0,O’Reilly Auto Parts #3465,6150 Watt Ave,North Highlands,95660,UsedOil,(916) 334-1000
+0,O’Reilly Auto Parts #3475,7100 Regional Street,Dublin,94568,UsedOil,(925) 829-0124
+0,O’Reilly Auto Parts #2871,181 Depot St,Vacaville,95688,UsedOil,(707) 447-2456
+0,O’Reilly Auto Parts #2571,1601 Decoto Road,Union City,94587,UsedOil,(510) 487-2742
+0,O’Reilly Auto Parts #2910,4400 Broadway,Oakland,94611,UsedOil,(510) 652-5318
+0,O’Reilly Auto Parts #2586,724 Gravenstein Hwy N,Sebastopol,95472,UsedOil,(707) 829-0650
+0,O’Reilly Auto Parts #2567,1440 E Harding Way,Stockton,95205,UsedOil,(209) 466-3193
+0,O’Reilly Auto Parts #2568,7349 Greenback Ln,Citrus Heights,95621-5530,UsedOil,(916) 726-2471
+0,O’Reilly Auto Parts #2594,5908 Stockton Blvd,Sacramento,95824,UsedOil,(916) 392-5780
+0,O’Reilly Auto Parts #2600,6405 N Blackstone Avenue,Fresno,93710,UsedOil,(559) 432-2703
+0,O’Reilly Auto Parts #2604,411 May Ave,Santa Cruz,95060,UsedOil,(831) 423-2282
+0,O’Reilly Auto Parts #2602,4200 Macarthur Boulevard,Oakland,94619,UsedOil,(510) 531-7026
+0,O’Reilly Auto Parts #2769,6404 Pacific Avenue,Stockton,95207,UsedOil,(209) 477-8095
+0,O’Reilly Auto Parts #2664,1177 E Manning Avenue,Reedley,93654,UsedOil,(559) 638-1957
+0,O’Reilly Auto Parts #2554,1219 S Main St,Salinas,93901,UsedOil,(831) 422-9074
+0,O’Reilly Auto Parts #2922,3544 McHenry Ave,Modesto,95356,UsedOil,(209) 527-1480
+0,O’Reilly Auto Parts #2584,709 Jefferson Blvd,West Sacramento,95691,UsedOil,(916) 372-1411
+0,O’Reilly Auto Parts #2813,695 S Washington St,Sonora,95370,UsedOil,(209) 588-0180
+0,O’Reilly Auto Parts #2879,1803 N Texas St,Fairfield,94533,UsedOil,(707) 429-3381
+0,O’Reilly Auto Parts #2575,590 Raleys Towne Ctr,Rohnert Park,94928,UsedOil,(707) 585-3613
+0,O’Reilly Auto Parts #2876,1354 E Hatch Rd,Modesto,95351,UsedOil,(209) 537-4512
+0,O’Reilly Auto Parts #2580,245-B Mt Herman Rd,Scotts Valley,95066,UsedOil,(831) 438-0842
+0,O’Reilly Auto Parts #2590,4423 Elkhorn Blvd,Sacramento,95842,UsedOil,(916) 332-8001
+0,O’Reilly Auto Parts #2763,1475 A 41st Ave,Capitola,95010,UsedOil,(831) 464-8172
+0,O’Reilly Auto Parts #3461,106 Harding Blvd,Roseville,95678,UsedOil,(916) 783-0424
+0,O’Reilly Auto Parts #2878,2990 Castro Valley Blvd,Castro Valley,94546,UsedOil,(510) 881-0761
+0,O’Reilly Auto Parts #2562,608 Shaw Avenue,Clovis,93612,UsedOil,(559) 299-7261
+0,O’Reilly Auto Parts #2780,35680 Fremont Blvd,Fremont,94536,UsedOil,(510) 713-8991
+0,O’Reilly Auto Parts #2850,2396 East 14th Street,San Leandro,94577,UsedOil,(510) 352-7014
+0,O’Reilly Auto Parts #2825,4969 E Kings Canyon Rd,Fresno,93727,UsedOil,(559) 456-0996
+0,O’Reilly Auto Parts #2566,2290 Jefferson St,Napa,94558,UsedOil,(707) 224-8606
+0,O’Reilly Auto Parts #3561,10680 San Pablo Avenue,El Cerrito,94530,UsedOil,(510) 524-3940
+0,O’Reilly Auto Parts #2561,2560 Cottage Way,Sacramento,95825,UsedOil,(916) 483-4942
+0,O’Reilly Auto Parts #2934,5945 Dougherty Rd,Dublin,94568,UsedOil,(925) 828-3620
+0,O’Reilly Auto Parts #2631,250 Reservation Rd,Marina,93933,UsedOil,(831) 883-0130
+0,O’Reilly Auto Parts #2900,701 Bellevue Ave,Atwater,95301,UsedOil,(209) 357-1881
+0,O’Reilly Auto Parts #2880,1341 Country Club Dr,Madera,93638,UsedOil,(559) 673-9031
+0,O’Reilly Auto Parts #2573,6101 Mack Rd,Sacramento,95823,UsedOil,(916) 392-2255
+0,O’Reilly Auto Parts #2577,3970-F Missouri Flat Road,Placerville,95667,UsedOil,(530) 626-9191
+0,O’Reilly Auto Parts #2599,289 W Napa St,Sonoma,95476,UsedOil,(707) 938-5093
+0,O’Reilly Auto Parts #3097,3499 Northgate Blvd,Sacramento,95834,UsedOil,(916) 929-2154
+0,O’Reilly Auto Parts #3557,4158 N West Ave.,Fresno,93705,UsedOil,(559) 230-0993
+0,O’Reilly Auto Parts #2788,515 Healdsburg,Healdsburg,95448,UsedOil,(707) 431-7380
+0,O’Reilly Auto Parts #3501,515 E Yosemite Avenue,Manteca,95336,UsedOil,(209) 239-4188
+0,O’Reilly Auto Parts #3556,1323 2nd Street,San Rafael,94901,UsedOil,(415) 454-2963
+0,O’Reilly Auto Parts #2593,3659 Bradshaw Rd,Sacramento,95826,UsedOil,(916) 363-1464
+0,O’Reilly Auto Parts #2886,2654 Whitson Avenue,Selma,93662,UsedOil,(559) 896-7340
+0,O’Reilly Auto Parts #2728,41085 Fremont Blvd,Fremont,94538,UsedOil,(510) 490-9986
+0,O’Reilly Auto Parts #2743,1059 El Camino Real,South San Francisco,94080,UsedOil,(650) 589-8102
+0,O’Reilly Auto Parts #2736,3323 Tracy Boulevard,Tracy,95376,UsedOil,(209) 836-0606
+0,O’Reilly Auto Parts #2744,1588 Railroad Avenue,Livermore,94550,UsedOil,(925) 294-9470
+0,Recology Hay Road,6426 Hay Rd,Vacaville,95687,UsedOil,(707) 678-4718
+0,O’Reilly Auto Parts #2915,3031 N Cedar Avenue,Fresno,93703,UsedOil,(559) 224-6487
+0,O’Reilly Auto Parts #2703,510 West Olive Avenue,Fresno,93728,UsedOil,(559) 486-4763
+0,O’Reilly Auto Parts #2721,1190 East F Street,Oakdale,95361,UsedOil,(209) 848-0310
+0,O’Reilly Auto Parts #2702,43A S Sanborn Rd,Salinas,93905,UsedOil,(831) 758-4626
+0,O’Reilly Auto Parts #2755,704 N Central,Alameda,94501,UsedOil,(510) 521-4567
+0,O’Reilly Auto Parts #3505,4323 N Blackstone,Fresno,93726,UsedOil,(559) 225-1396
+0,Twain Harte Shell,22890 Twain Harte Dr,Twain Harte,95383,UsedOil,(209) 586-6335
+0,R & R Auto Repair Shop,115 W Merced St.,Fowler,93625,UsedOil,(559) 834-2762
+0,O’Reilly Auto Parts #2774,643 Bethel Avenue,Sanger,93657,UsedOil,(559) 876-2004
+0,Clovis Drop Shop,"972 Barstow Ave, Unit E",Clovis,93612,UsedOil,(559) 299-5049
+0,O’Reilly Auto Parts #2807,5417 Auburn Ave,Sacramento,95841,UsedOil,(916) 332-9896
+0,O’Reilly Auto Parts #2800,1601 Lander Ave,Turlock,95380,UsedOil,(209) 664-0195
+0,10 Minute Lube N' Oil,437 N Golden State Blvd,Turlock,95380,UsedOil,(209) 632-0188
+0,9 Minute Oil & Lube Co,3839 El Camino Real,Palo Alto,94306,UsedOil,(650) 856-2104
+0,O’Reilly Auto Parts #2821,10117 Folsom Blvd,Rancho Cordova,95670,UsedOil,(916) 361-1591
+0,Jiffy Lube #1478,1648 E Hammer Lane,Stockton,95210,UsedOil,(916) 375-1155
+0,Jiffy Lube #1480,240 W Ashlan Ave,Clovis,93612,UsedOil,(916) 375-1155
+0,O’Reilly Auto Parts #3451,1910 Mendocino Ave,Santa Rosa,95401,UsedOil,(707) 545-4730
+0,O’Reilly Auto Parts #2570,1543 Farmers Ln,Santa Rosa,95405,UsedOil,(707) 526-5724
+0,Jiffy Lube #0723,3896 N. Blackstone Ave,Fresno,93726,UsedOil,(916) 375-1155
+0,Speed Lube Oil Change,14639 San Pablo Ave,San Pablo,94806,UsedOil,(510) 236-9617
+0,Pep Boys #840,170 E El Camino Real,Sunnyvale,94087-1936,UsedOil,(408) 774-0159
+0,O’Reilly Auto Parts #2832,2421 Del Paso Blvd,Sacramento,95815,UsedOil,(916) 929-9755
+0,Firestone #022845 Tully Road,1895 Tully Road,San Jose,95122,UsedOil,(408) 926-1616
+0,Pinole-Rodeo Auto Wreckers,700 Parker Avenue,Rodeo,94572,UsedOil,(510) 758-2095
+0,Jiffy Lube #1479,146 N 6th Ave,Oakdale,95361,UsedOil,(209) 847-1163
+0,Freeman Toyota,2875 Corby Ave,Santa Rosa,95407,UsedOil,(707) 542-1791
+0,Big G's Automotive Center,1091 N Street,Firebaugh,93622,UsedOil,(559) 659-3509
+0,Pep Boys #723,2500 Arden Way,Sacramento,95825-2414,UsedOil,(916) 646-6671
+0,Pep Boys #624,716 Broadway St,Fresno,93721-2808,UsedOil,(559) 264-3029
+0,Pep Boys #639,3655 N Blackstone,Fresno,93726-5305,UsedOil,(559) 225-8811
+0,Pep Boys #711,4987 West Ln,Stockton,95210-3509,UsedOil,(209) 952-1222
+0,Pep Boys #816,30085 Industrial Pkwy,Union City,94587-1758,UsedOil,(510) 441-0261
+0,Pep Boys #828,2730 Story Rd,San Jose,95127-3920,UsedOil,(408) 254-7022
+0,Pep Boys #719,5135 Auburn Blvd,Sacramento,95841-2704,UsedOil,(916) 331-4880
+0,Pep Boys #634,1340 McHenry Ave,Modesto,95350-5333,UsedOil,(209) 529-3310
+0,Pep Boys #649,1207 W Main St,Merced,95340-4524,UsedOil,(209) 723-3177
+0,Pep Boys #873,3780 Stevens Crk Blvd,San Jose,95117-1253,UsedOil,(408) 246-8090
+0,Pep Boys #815,128 Plaza Dr,Vallejo,94591-3702,UsedOil,(707) 648-1032
+0,Pep Boys #714,5895 47th St,Sacramento,95824-4506,UsedOil,(916) 392-3131
+0,O’Reilly Auto Parts #2833,1442 Fitzgerald Drive,Pinole,94564,UsedOil,(510) 758-5155
+0,O’Reilly Auto Parts #2581,1200 El Camino Real,Millbrae,94030,UsedOil,(650) 583-0443
+0,O’Reilly Auto Parts #2587,4300 Marconi,Sacramento,95821,UsedOil,(916) 484-0195
+0,O’Reilly Auto Parts #2588,1317 Florin Rd,Sacramento,95831,UsedOil,(916) 391-4440
+0,O’Reilly Auto Parts #2607,7800 Sunrise Blvd,Citrus Heights,95610,UsedOil,(916) 721-5656
+0,O’Reilly Auto Parts #2641,1400 S Novato Blvd,Novato,94947,UsedOil,(415) 897-5338
+0,O’Reilly Auto Parts #2765,430 Cherokee S Lane,Lodi,95240,UsedOil,(209) 333-7195
+0,O’Reilly Auto Parts #2768,16 W Court St,Woodland,95695,UsedOil,(530) 661-7580
+0,Pep Boys #712,10899 Folsom Blvd,Rancho Cordova,95670-5023,UsedOil,(916) 638-4808
+0,Tracy Material Recovery & Transfer Facility,30703 S MacArthur Dr,Tracy,95376,UsedOil,(209) 832-2355
+0,Pep Boys #673,5615 E Kings Canyon Rd,Fresno,93727-4641,UsedOil,(559) 251-6600
+0,The Tred Shed,50 Bliss Ave,Pittsburg,94565,UsedOil,(925) 432-3422
+0,Sonora Express Lube #1,14490 Mono Way,Sonora,95370,UsedOil,(209) 532-8480
+0,Pep Boys #710,845 E Charter Wy,Stockton,95206-1621,UsedOil,(215) 687-1703
+0,Pep Boys #774,3534 Northgate Blvd,Sacramento,95834-1621,UsedOil,(215) 687-1703
+0,Pep Boys #777,4490 W Shaw Ave,Fresno,93722-6210,UsedOil,(215) 687-1703
+0,Pep Boys #668,693 W Shaw Ave,Clovis,93612-3230,UsedOil,(215) 687-1703
+0,Eagle Quick Lube,40179 Enterprise Dr #G,Oakhurst,93644,UsedOil,(559) 658-2300
+0,Pep Boys #862,4805 Redwood Dr,Rohnert Park,94928-7900,UsedOil,(215) 687-1703
+0,Benjamin Tire & Brake,250 Airport Blvd,Santa Rosa,95403,UsedOil,(707) 528-8595
+0,Big O Tires,1115 Healdsburg Ave,Healdsburg,95448,UsedOil,(707) 433-6644
+0,Dave's Auto Repair,1911 Bodega Ave,Petaluma,94952,UsedOil,(707) 763-8365
+0,Pep Boys #968,520 Contra Costa Blvd,Pleasant Hill,94523-1204,UsedOil,(215) 687-1703
+0,Sonora Express Lube #2,6 Pesce Way,Sonora,95370,UsedOil,(209) 532-6566
+0,Pep Boys #847,14845 E 14th St,San Leandro,94578-2921,UsedOil,(215) 687-1703
+0,O’Reilly Auto Parts #2829,3232 Foothill Blvd,Oakland,94601,UsedOil,(510) 436-0129
+0,O’Reilly Auto Parts #2854,813 E El Camino Real,Sunnyvale,94087,UsedOil,(408) 739-9892
+0,O’Reilly Auto Parts #2913,2027 El Camino Real,Santa Clara,95050,UsedOil,(408) 247-3765
+0,O’Reilly Auto Parts #2912,1626 Freedom Blvd,Freedom,95019,UsedOil,(831) 722-1108
+0,SpeeDee Oil Change & Tune-up,801 El Camino Real,San Bruno,94066,UsedOil,(650) 952-5178
+0,Michael Cadillac,5737 N Blackstone,Fresno,93710-5005,UsedOil,(559) 431-6000
+0,O’Reilly Auto Parts #2938,1623 N Carpenter Rd,Modesto,95351,UsedOil,(209) 544-8092
+0,O’Reilly Auto Parts #2917,3228 Hammer Lane,Stockton,95212,UsedOil,(209) 474-9960
+0,Michael Toyota,50 W Bullard Ave,Fresno,93704,UsedOil,(559) 431-6000
+0,O’Reilly Auto Parts #2901,40 W 16th St,Merced,95340,UsedOil,(209) 725-9572
+0,O’Reilly Auto Parts #2991,989 N Main St,Salinas,93906,UsedOil,(831) 753-0829
+0,O’Reilly Auto Parts #2916,1707 Airline Hwy,Hollister,95023,UsedOil,(831) 638-1171
+0,Paradise Point Engine & Boat Repair,8090 Rio Blanco Rd,Stockton,95219,UsedOil,(209) 952-3383
+0,Ernie's Service Center,6281 Graham Hill Road,Felton,95018,UsedOil,(831) 335-5332
+0,Jiffy Lube #1948,2026 Columbus Parkway,Benicia,94510,UsedOil,(707) 745-5073
+0,O’Reilly Auto Parts #2893,14420 San Pablo Avenue,San Pablo,94806,UsedOil,(510) 232-6100
+0,O’Reilly Auto Parts #3006,6608 Fair Oaks Blvd,Carmichael,95608,UsedOil,(916) 971-3584
+0,AutoZone #2858,1100 N Wilson Way,Stockton,95205-3143,UsedOil,(209) 942-2992
+0,O’Reilly Auto Parts #3535,1272 El Camino Real,San Carlos,94070,UsedOil,(650) 595-5112
+0,AutoZone #2874,211 N Gateway Dr,Madera,93637-3578,UsedOil,(559) 674-8198
+0,AutoZone #2833,1741 E El Monte Way,Dinuba,93618-9317,UsedOil,(559) 591-2323
+0,O’Reilly Auto Parts #3020,309 W. Dr Martin Luther King Jr. Blvd,Stockton,95206,UsedOil,(209) 462-5690
+0,AutoZone #5698,401 Paradise Rd,Modesto,95351,UsedOil,(209) 530-9231
+0,Pick-N-Pull/Rancho Cordova #1,3419 Sunrise Blvd,Rancho Cordova,95742-7333,UsedOil,(916) 635-2027
+0,AutoZone #2862,1111 Academy Ave,Sanger,93657-3112,UsedOil,(559) 875-6071
+0,Santa Nella Travel Center,12310 S Hwy 33,Santa Nella,95322,UsedOil,(209) 826-0741
+0,AutoZone #2876,820 E California Ave,Fresno,93706-3702,UsedOil,(559) 264-2893
+0,AutoZone #2868,1901 Prescott Rd,Modesto,95350-2566,UsedOil,(209) 530-0294
+0,AutoZone #2867,8135 Florin Rd,Sacramento,95828-2408,UsedOil,(916) 381-2391
+0,Pick-N-Pull/Windsor #4,10475 Old Redwood Hwy,Windsor,95492-9232,UsedOil,(707) 838-4691
+0,AutoZone #5506,470 Bellevue Road,Atwater,95301-2906,UsedOil,(209) 357-2437
+0,AutoZone #2815,2101 Whitson St,Selma,93662-3413,UsedOil,(559) 891-7186
+0,O’Reilly Auto Parts #3139,2500 San Bruno Avenue,San Francisco,94134,UsedOil,(415) 656-0696
+0,O’Reilly Auto Parts #3533,1405 N. First Street,Dixon,95620,UsedOil,(707) 693-1200
+0,O’Reilly Auto Parts #3003,301 W. Olive Ave,Madera,93637,UsedOil,(559) 662-8990
+0,AutoZone #2892,4674 E Kings Canyon Rd,Fresno,93702,UsedOil,(559) 252-6332
+0,Pick-N-Pull/Moss Landing #42,516 Dolan Road,Moss Landing,95039-9702,UsedOil,(831) 632-4201
+0,Pick-N-Pull/Modesto #2,10860 Gold Center Dr. Suite 250,Rancho Cordova ,95670,UsedOil,(209) 579-2277
+0,AutoZone #5916,429 Blue Ravine Rd,Folsom,95630,UsedOil,(916) 983-4779
+0,O’Reilly Auto Parts #3531,1170 Blossom Hill Rd,San Jose,95118,UsedOil,(408) 445-0481
+0,AutoZone #5230,10111 International Blvd,Oakland,94603,UsedOil,(510) 635-2115
+0,O’Reilly Auto Parts #3030,1191 Riley St,Folsom,95630,UsedOil,(916) 983-9884
+0,AutoZone #5321,3102 E Gettysburg Ave,Fresno,93726-0400,UsedOil,(559) 230-0570
+0,AutoZone #5587,8129 Auburn Blvd,Citrus Heights,95610-1407,UsedOil,(916) 726-5875
+0,Pick-N-Pull/Merced #5,1150 E. Childs Avenue,Merced,95340-6334,UsedOil,(209) 722-3376
+0,AutoZone #5588,"1018 ""C"" St Ste 200",Galt,95632-1733,UsedOil,(209) 745-7094
+0,AutoZone #5510,510 Canal St. #A,King City,93930,UsedOil,(831) 385-0773
+0,AutoZone #5585,6920 Sunrise Blvd,Citrus Heights,95610-3101,UsedOil,(916) 726-6070
+0,O’Reilly Auto Parts #2884,8158 Gerber Rd,Sacramento,95828,UsedOil,(916) 681-5515
+0,AutoZone #5507,665 Pacheco Blvd,Los Banos,93635-4231,UsedOil,(209) 826-6046
+0,AutoZone #5594,3121 Marysville Blvd,Sacramento,95815,UsedOil,(916) 922-5491
+0,AutoZone #5937,13102 San Pablo Ave,Richmond,94805-1311,UsedOil,(510) 236-6650
+0,AutoZone #5603,3455 Watt Ave,Sacramento,95821-3612,UsedOil,(916) 485-4714
+0,AutoZone #5604,271 McCray St,Hollister,95023-4095,UsedOil,(831) 636-1636
+0,AutoZone #3306,927  S. Clovis Ave,Fresno,93727,UsedOil,(559) 455-1805
+0,AutoZone #5311,1350 MacDonald Ave,Richmond,94801-3124,UsedOil,(510) 233-8608
+0,AutoZone #5593,1900 Broadway,Sacramento,95818-2412,UsedOil,(916) 443-5479
+0,AutoZone #5699,1032 Oakdale Road,Modesto,95355-4513,UsedOil,(209) 342-9024
+0,AutoZone #5700,"1474 E ""F"" St",Oakdale,95361-9228,UsedOil,(209) 848-2470
+0,AutoZone #5599,2720 Florin Rd,Sacramento,95822-4527,UsedOil,(916) 428-4205
+0,Pick-N-Pull/Stockton,3927 Clark Drive,Stockton,95205,UsedOil,(209) 462-1927
+0,AutoZone #5513,17643 Vierra Canyon Rd,Salinas,93907-3314,UsedOil,(831) 663-6820
+0,Mountain Mechanics,13265 Big Basin Way,Boulder Creek,95006,UsedOil,(408) 338-3903
+0,AutoZone #5512,1011 E Alisal St,Salinas,93905-2713,UsedOil,(831) 757-1904
+0,AutoZone #5596,3333 Fruitridge Rd,Sacramento,95820-4743,UsedOil,(916) 456-9017
+0,AutoZone #5711,1091 Sanguinetti Rd,Sonora,95370-6213,UsedOil,(209) 532-2122
+0,AutoZone #5696,730 Admiral Callaghan Ln,Vallejo,94591-3650,UsedOil,(707) 557-4453
+0,AutoZone #5693,288 Sunset Ave,Suisun City,94585-1772,UsedOil,(707) 428-3994
+0,AutoZone #5597,5501 Folsom Blvd,Sacramento,95819-4603,UsedOil,(916) 457-0319
+0,AutoZone #5317,4031 N Marks Ave.,Fresno,93722,UsedOil,(559) 229-6515
+0,AutoZone #5685,8228 West Lane,Stockton,95210-3148,UsedOil,(209) 957-1108
+0,AutoZone #5694,2480 Nut Tree Rd,Vacaville,95687-6452,UsedOil,(707) 446-3958
+0,AutoZone #5721,90 W Main St,Woodland,95695-3077,UsedOil,(530) 406-1871
+0,AutoZone #2895,5820 Auburn Blvd.,Sacramento,95841-2908,UsedOil,(916) 349-8695
+0,AutoZone #5701,1272 Geer Rd,Turlock,95380-9528,UsedOil,(209) 669-8322
+0,O’Reilly Auto Parts #3132,2020 Alamo Dr,Vacaville,95687,UsedOil,(707) 454-0770
+0,Pep Boys #562,1401 Cherokee Ln,Lodi,95240,UsedOil,(215) 687-1703
+0,Firestone #598763 Winchester,2120 Winchester Boulevard,Campbell,95008-3427,UsedOil,(408) 871-9042
+0,O’Reilly Auto Parts #3091,2451 N Sierra Highway,Bishop,93514,UsedOil,(760) 872-2587
+0,O’Reilly Auto Parts #3137,2150 Taraval Street,San Francisco,94116,UsedOil,(415) 682-9177
+0,O’Reilly Auto Parts #3138,3541 Callan Boulevard,South San Francisco,94080,UsedOil,(650) 827-9081
+0,AutoZone #5229,3050 E 9th St,Oakland,94601,UsedOil,(510) 533-9810
+0,Stockton Sailing Club,4980 Buckley Cove Way,Stockton,95219,UsedOil,(209) 951-5600
+0,AutoZone #5682,1300 W Kettleman Ln,Lodi,95242-4571,UsedOil,(209) 339-4459
+0,AutoZone #5508,"1635 ""R"" St",Merced,95340-4512,UsedOil,(209) 384-9396
+0,AutoZone #3326,2309 W Hammer Ln,Stockton,95209,UsedOil,(209) 477-9788
+0,AutoZone #3336,10791 Folsom Blvd,Rancho Cordova,95670,UsedOil,(916) 852-6628
+0,AutoZone #5601,5305 Fruitridge Rd,Sacramento,95820,UsedOil,(916) 453-0171
+0,AutoZone #5684,1339 S Sutter St,Stockton,95206-1450,UsedOil,(209) 944-9254
+0,O’Reilly Auto Parts #3538,610 Williams Rd,Salinas,93905,UsedOil,(831) 757-4288
+0,German Auto Clinic,2040 N. Main St. Unit #11,Walnut Creek,94596,UsedOil,(925) 944-0240
+0,O’Reilly Auto Parts #3179,6628 Laguna Blvd,Elk Grove,95758,UsedOil,(916) 691-3302
+0,O’Reilly Auto Parts #3184,2750 Florin Rd,Sacramento,95822,UsedOil,(916) 391-0590
+0,SpeeDee Oil Change & Tune-Up,1675 Tuolumne St.,Vallejo,94590,UsedOil,(707) 642-9242
+0,AutoZone #5720,1400 W Capitol Ave,West Sacramento,95691-3216,UsedOil,(916) 372-6386
+0,O’Reilly Auto Parts #3218,1681 Research Park Drive,Davis,95618,UsedOil,(530) 753-6755
+0,O’Reilly Auto Parts #3222,1200 W. Lathrop Road,Manteca,95336,UsedOil,(209) 239-9606
+0,O’Reilly Auto Parts #3219,3993 Foothills Blvd,Roseville,95747,UsedOil,(916) 782-3211
+0,AutoZone #3334,5267 Clayton Rd,Concord,94521-3204,UsedOil,(925) 681-1484
+0,O’Reilly Auto Parts #3450,9989 San Pablo Avenue,El Cerrito,94530,UsedOil,(510) 524-0267
+0,AutoZone #3324,1502 Freedom Blvd.,Watsonville,95076,UsedOil,(831) 768-9898
+0,O’Reilly Auto Parts #3148,3071 West Clinton Ave.,Fresno,93722,UsedOil,(559) 271-9860
+0,Pep Boys #827,1087 Old County Rd,San Carlos,94070,UsedOil,(650) 632-1522
+0,SpeeDee Oil Change and Tune Up,1825 E Capitol Expressway,San Jose,95121,UsedOil,(408) 531-0701
+0,AutoZone #3343,401 East Leland Rd.,Pittsburg,94565,UsedOil,(925) 252-9044
+0,AutoZone #5924,2690 Story Rd,San Jose,95122,UsedOil,(408) 254-4865
+0,O’Reilly Auto Parts #3457,3398 Coach Lane,Cameron Park,95682,UsedOil,(530) 672-8095
+0,AutoZone #3349,5747 Pacheco Blvd.,Pacheco,94553,UsedOil,(925) 825-9671
+0,John's Bascom Automotive,1305 S. Bascom Ave.,San Jose,95128,UsedOil,(408) 292-1200
+0,Jiffy Lube #2497,4715 N West Lane,Stockton,95210,UsedOil,(916) 375-1155
+0,O’Reilly Auto Parts #3516,2542 Patterson Road Ste. A,Riverbank,95367,UsedOil,(209) 869-0650
+0,O’Reilly Auto Parts #3488,1844 Springs Road,Vallejo,94591,UsedOil,(707) 643-1096
+0,Rock & Roll Auto Recycling,3908 Old Santa Rita Rd.,Pleasanton,94588-3484,UsedOil,(925) 224-9944
+0,AutoZone #3357,3533 Mac Arthur Blvd,Oakland,94619-1325,UsedOil,(510) 336-9124
+0,O’Reilly Auto Parts #3522,16060 Monterey Rd. Ste 100,Morgan Hill,95037,UsedOil,(408) 776-7705
+0,O’Reilly Auto Parts #3220,3426 Deer Valley Road,Antioch,94531,UsedOil,(925) 755-9410
+0,O’Reilly Auto Parts #3484,24247 Hesperian Blvd,Hayward,94545,UsedOil,(510) 783-4667
+0,O’Reilly Auto Parts #2949,"1500 Monument Boulevard, Ste. D",Concord,94520,UsedOil,(925) 798-3604
+0,"Razzari Dodge, Inc.",1605 Auto Center Drive,Merced,95340,UsedOil,(562) 716-6100
+0,Firestone #591440 Travis AFB,"Building 170, Travis Avenue",Travis AFB,94535,UsedOil,(707) 437-2232
+0,O’Reilly Auto Parts #2872,505 Contra Costa Boulevard,Pleasant Hill,94523,UsedOil,(925) 827-0397
+0,AutoZone #3335,147 S. Main St.,Manteca,95336,UsedOil,(209) 824-9665
+0,Jiffy Lube #2322,500 E. Kettleman Lane,Lodi,95240,UsedOil,(916) 375-1155
+0,AutoZone #5322,343 W. Shaw Ave.,Clovis,93612,UsedOil,(559) 325-8596
+0,Autozone #5309,2595 Main St.,Oakley,94561,UsedOil,(925) 625-8643
+0,Truck Lubrication Company,523 W. Larch Rd. Ste #A,Tracy,95304,UsedOil,(209) 833-3409
+0,Oil Express,1033 Arnold Drive,Martinez,94553,UsedOil,(925) 942-0751
+0,Oil Express,1935 Market Street,Concord,94520,UsedOil,(925) 825-7576
+0,7 Flags Express Lube & Oil Change,2270 N. Texas St.,Fairfield,94533,UsedOil,(707) 426-2000
+0,O’Reilly Auto Parts #3558,7933 Watt Ave.,Antelope,95843,UsedOil,(916) 331-2594
+0,O’Reilly Auto Parts #3570,1988 Broadway Ave.,Sacramento,95818,UsedOil,(916) 457-7094
+0,O’Reilly Auto Parts #3553,6500 Hembree Lane #225,Windsor,95492,UsedOil,(707) 838-2217
+0,O’Reilly Auto Parts #2608,7283 Mission Street,Daly City,94014,UsedOil,(650) 755-8890
+0,Oil Express,3500 Alhambra Ave,Martinez,94553,UsedOil,(925) 229-1206
+0,O’Reilly Auto Parts #2629,1810 Alum Rock Ave.,San Jose,95116,UsedOil,(408) 251-4494
+0,Pick-N-Pull/San Jose South,1675 Monterey Road,San Jose,95112-6113,UsedOil,(408) 292-4325
+0,O’Reilly Auto Parts #2556,3095 Silver Creek Rd.,San Jose,95121,UsedOil,(408) 274-7800
+0,O’Reilly Auto Parts #2555,1160 N. 4th St.,San Jose,95112,UsedOil,(408) 298-5766
+0,O’Reilly Auto Parts #3199,1350 S. Park Victoria Dr. Ste.#20,Milpitas,95035,UsedOil,(408) 946-3677
+0,AutoZone #3354,1204 N Capitol Avenue,San Jose,95132,UsedOil,(408) 254-2378
+0,AutoZone #2854,3880 S. El Camino Real,San Mateo,94403,UsedOil,(650) 372-0535
+0,Bear Mountain Auto Parts & Service,31086 E Kings Canyon Road,Squaw Valley,93675,UsedOil,(559) 332-2800
+0,AutoZone #3352,1820 Guerneville Rd.,Santa Rosa,95403,UsedOil,(707) 542-4037
+0,AutoZone #3312,1475 Fitzgerald Drive,Pinole,94564,UsedOil,(510) 758-4200
+0,AutoZone #3338,32100 Alvarado Blvd.,Union City,94587,UsedOil,(510) 324-2210
+0,SpeeDee Oil Change & Tune up,5564 Monterey Rd.,San Jose,95138,UsedOil,(408) 224-5500
+0,San Francisco Honda's Marina Service Center,2098 Lombard Street,San Francisco,94123,UsedOil,(415) 913-5183
+0,O’Reilly Auto Parts #3585,2200 W. Monte Vista,Turlock,95382,UsedOil,(209) 634-1358
+0,O’Reilly Auto Parts #2585,8751 Elk Grove Blvd.,Elk Grove,95624,UsedOil,(916) 685-1575
+0,AutoZone #3331,17750 Hesperian Blvd.,San Lorenzo,94580,UsedOil,(510) 481-5010
+0,O’Reilly Auto Parts #3555,8600 Brentwood Boulevard,Brentwood,94513,UsedOil,(925) 240-6530
+0,AutoZone #5686,1448 N. El Dorado,Stockton,95202,UsedOil,(209) 939-9132
+0,O’Reilly Auto Parts #3567,10370 Twin Cities Rd.,Galt,95632,UsedOil,(209) 744-8586
+0,O’Reilly Auto Parts #3608,6446 Pony Express Trail,Pollock Pines,95726,UsedOil,(530) 647-2144
+0,O’Reilly Auto Parts #3467,12925 San Pablo Avenue,Richmond,94805,UsedOil,(510) 235-7373
+0,AutoZone #3303,1706 N. Texas St.,Fairfield,94533,UsedOil,(707) 428-4256
+0,O’Reilly Auto Parts #3617,739 Herndon Ave. Ste# 101,Clovis,93612,UsedOil,(559) 325-2055
+0,AutoZone #3315,1122 West 11th Street,Tracy,95376,UsedOil,(209) 832-4911
+0,AutoZone #3369,4580 Alamaden Expressway,San Jose,95118,UsedOil,(408) 266-6432
+0,Speed Oil Change Center,2 Hegenberger Road,Oakland,94621,UsedOil,(510) 985-1010
+0,"Lathrop-Manteca Fire District, Station #31",800 East J Street,Lathrop,95330,UsedOil,(209) 858-2331
+0,O’Reilly Auto Parts #3631,6720 Lone Tree Way,Brentwood,94513,UsedOil,(925) 634-1899
+0,"Big Valley Ford, Inc.",3282 Auto Center Circle,Stockton,95212,UsedOil,(209) 870-4400
+0,Autozone #5325,979 E Manning Ave.,Reedley,93654,UsedOil,(559) 638-6088
+0,Speed Oil Change Center,10175 San Pablo Avenue,El Cerrito,94530,UsedOil,(510) 524-4203
+0,Sunset 76,1700 Noriega Street,San Francisco,94122,UsedOil,(415) 753-9635
+0,O’Reilly Auto Parts #3487,1799 Story Rd.,San Jose,95122,UsedOil,(408) 251-7332
+0,O’Reilly Auto Parts #3100,1074 Lincoln Ave.,San Jose,95125,UsedOil,(408) 293-9200
+0,AutoZone #2885,94 N San Tomas Aquino Road,Campbell,95008,UsedOil,(901) 495-7129
+0,Oil Stop,8101 Madison Ave.,Fair Oaks,95628,UsedOil,(916) 967-0229
+0,Speed Oil Change Center,5225 Shattuck Avenue #B,Oakland,94609,UsedOil,(510) 985-1010
+0,Speedee Oil Change & Tune Up,221 Peabody Road,Vacaville,95687,UsedOil,(707) 455-8518
+0,AutoZone #3366,1623 A St,Antioch,94509,UsedOil,(925) 756-1314
+0,Jiffy Lube #3200,5316 W Spruce Ave,Fresno,93722,UsedOil,(916) 375-1155
+0,AutoZone #2889,5384 North Blackstone,Fresno,93710,UsedOil,(559) 225-1937
+0,Mercedes Benz of Stevens Creek,4500 Stevens Creek Blvd.,San Jose,95129,UsedOil,(408) 345-2202
+0, AutoNation Chrysler Dodge Jeep Ram ,200 Automall Drive,Roseville,95661,UsedOil,(916) 781-8100
+0,Hayward Toyota,24773 Mission Blvd,Hayward,94544,UsedOil,(510) 889-8000
+0,AutoZone #3302,2160 University Avenue,East Palo Alto,94303,UsedOil,(650) 321-7221
+0,Autozone #3307,320 El Camino Real,Millbrae,94030,UsedOil,(650) 697-3504
+0,Autozone #3371,7200 Bancroft Avenue,Oakland,94605,UsedOil,(510) 636-8646
+0,"Razzari Nissan, Inc.",1675 Auto Center Drive,Merced,95340,UsedOil,(209) 383-0100
+0,Chris's Engine and Auto Repair,4770 E 2nd St,Benicia,94510,UsedOil,(707) 746-5143
+0,Autozone #2842,9240 Elk Grove,Elk Grove,95624,UsedOil,(916) 690-8252
+0,O’Reilly Auto Parts #3637,1375 North Willow Avenue,Clovis,93619,UsedOil,(559) 323-1298
+0,O’Reilly Auto Parts #3654,497 Winton Parkway,Livingston,95334,UsedOil,(209) 294-8887
+0,Big Sky Enterprises,"401 W. Channel Rd, Suite C",Benicia,94510,UsedOil,(510) 541-2128
+0,O’Reilly Auto Parts #3638,8416 Elk Grove-Florin Rd,Elk Grove,95624,UsedOil,(916) 405-6980
+0,O’Reilly Auto Parts #3641,1401 W. El Monte Way,Dinuba,93618,UsedOil,(559) 230-0683
+0,Autozone #3342,3785 W. Shields,Fresno,93722,UsedOil,(559) 277-3744
+0,Heynneman European,3155 Kerner Blvd.,San Rafael,94901,UsedOil,(415) 499-1234
+0,Autozone #3368,41094 Fremont Blvd.,Fremont,94538,UsedOil,(510) 656-2533
+0,Autozone #5690,6900 Chestnut Street,Gilroy,95020,UsedOil,(408) 842-6689
+0,Towne Ford,1601 El Camino Real,Redwood City,94063,UsedOil,(650) 366-5744
+0,O’Reilly Auto Parts #3635,"4425 W Ashlan Avenue, Suite 101",Fresno,93722,UsedOil,(559) 271-0658
+0,Marlong INC. DBA SPEEDEE OIL CHANGE & CUSTOMER SER,44 Mission Drive,Pleasanton,94566,UsedOil,(925) 426-9669
+0,Autozone #5598,6100 Mack Road,Sacramento,95823,UsedOil,(916) 421-2106
+0,O’Reilly Auto Parts #3657,193 Sunset Avenue,Suisun City,94585,UsedOil,(707) 422-8086
+0,Marlong Speedee Oil Change & Tune-Up,635 Trade Zone Blvd,Milpitas,95035,UsedOil,(925) 426-9669
+0,SpeeDee Oil Change/ Midas,2000 F Street,Davis,95616,UsedOil,(530) 753-1633
+0,Speedee Oil Change & Tune-Up,736 Clovis Ave,Clovis,93612,UsedOil,(559) 323-8398
+0,O’Reilly Auto Parts #2923,399 East Leland Road,Pittsburg,94565,UsedOil,(925) 439-1366
+0,O’Reilly Auto Parts #3639,400 S. Norfolk Street,San Mateo,94401,UsedOil,(650) 344-2448
+0,O’Reilly Auto Parts #3783,100 East Cypress Road,Oakley,94561,UsedOil,(925) 625-1781
+0,Ox Mountain Landfill,12310 San Mateo Road,Half Moon Bay,94019,UsedOil,(650) 713-3621
+0,O'Reilly Auto Parts #3760,353 Bayshore Boulevard,San Francisco,94124,UsedOil,(417) 874-7257
+0,Jiffy Lube #2953,4616 Post Street,El Dorado Hills,95762,UsedOil,(916) 375-1155
+0,AutoZone #3361,4350 Golden Center Dr.,Placerville,95667,UsedOil,(530) 626-0852
+0,Autozone #3716,"5170 Foothills Blvd, Suite 150",Roseville,95747,UsedOil,(916) 782-6002
+0,Speedco Truck Lube #944,1515 Hoff Drive,Ripon,95366,UsedOil,(209) 599-7961
+0,O’Reilly Auto Parts #3682,6117 N Figarden Drive,Fresno,93722,UsedOil,(559) 275-6338
+0,SpeeDee Oil Change & Tune-Up,245 W Louise,Manteca,95336,UsedOil,(209) 825-5823
+0,Speedee- Midas Oil Change & Tune-Up,216 W. Main St.,Woodland,95695,UsedOil,(530) 662-5605
+0,Smith Auto Parts,"1184 ""I"" Street",Reedley,93654,UsedOil,(559) 638-3619
+0,Autozone #2852,1433 Fremont Blvd,Seaside,93955,UsedOil,(831) 899-1866
+0,AutoNation Honda Roseville,230 Automall Drive,Roseville,95661,UsedOil,(916) 774-7802
+0,SpeeDee Oil Change & Tune Up,2707 W. Monte Vista Avenue,Turlock,95380,UsedOil,(209) 664-1996
+0,O’Reilly Auto Parts #3670,2327 Blanding Avenue,Alameda,94501,UsedOil,(602) 631-7057
+0,Firestone #267487 Santa Cruz,510 Water Street,Santa Cruz,95060,UsedOil,(831) 460-9607
+0,AutoZone #3333,1991 Sebastopol Road,Santa Rosa,95407,UsedOil,(707) 527-0427
+0,AutoZone #3744,1541 North Sanborn Road,Salinas,93905,UsedOil,(831) 772-0937
+0,Jiffy Lube #3324,10340 Twin Cities Road,Galt,95632,UsedOil,(916) 375-1155
+0,Boardwalk Auto Center,1 Bair Island Road,Redwood City,94063,UsedOil,(650) 364-0100
+0,Greeley Hill True Value,6364 Greeley Hill Road,Coulterville,95311,UsedOil,(209) 878-3414
+0,Pit Stop Auto Lube,1530 East F Street,Oakdale,95361,UsedOil,(209) 847-7256
+0,Zoom Car Wash,4661 Quail Lakes Drive,Stockton,95207,UsedOil,(209) 957-5051
+0,Pro Lube Oil Change Center,3037 Sisk Rd,Modesto,95350,UsedOil,(209) 544-3609
+0,O’Reilly Auto Parts #3810,1551 W. Main Street,Ripon,95366,UsedOil,(417) 874-7257
+0,Pro Lube #102,808 S. Cherokee Lane,Lodi,95240,UsedOil,(209) 333-2744
+0,O’Reilly Auto Parts #3811,"1950 McHenry Ave,",Escalon,95320,UsedOil,(209) 838-1442
+0,Zoom Car Wash,3434 E. Hammer Lane,Stockton,95212,UsedOil,(209) 956-4040
+0,AutoZone #3712,6340 Figarden Drive,Fresno,93722,UsedOil,(559) 276-1612
+0,TravelCenters of America,435 Winton Pkwy,Livingston,95334,UsedOil,(209) 394-4418
+0,Valley Fast Oil and Lube,1675 Piner Road,Santa Rosa,95403,UsedOil,(707) 544-2423
+0,AutoZone #3719,1765 Mitchell Road,Ceres,95307,UsedOil,(209) 541-3697
+0,Lexus of Stevens Creek,300 Martin Avenue,Santa Clara,95050,UsedOil,(626) 580-6016
+0,Toyota of Clovis,895 W Shaw Avenue,Clovis,93612,UsedOil,(559) 291-5544
+0,Autozone 4005,3401 Yosemite Blvd,Modesto,95354,UsedOil,(209) 491-0886
+0,Lovelace Materials Recovery Facility & Transf,2323 East Lovelace Road,Manteca,95336,UsedOil,(209) 468-3066
+0,North County Recycling Center & Sanitary Land,17720 East Harney Lane,Lodi,95240,UsedOil,(209) 887-3868
+0,Recology Dixon - Recycling Center,302 N. 1st Street,Dixon,95620,UsedOil,(707) 450-2824
+0,San Joaquin County Household Hazardous,7850 South R.A. Bridgeford Street,Stockton,95206,UsedOil,(206) 468-3066
+0,O’Reilly Auto Parts #3827,12440 Jackson Gate Road,Jackson,95642,UsedOil,(209) 223-2930
+0,Autozone #3759,1520 Country Club Dr.,Madera,93638,UsedOil,(559) 675-1375
+0,Livermore Airport,680 Terminal Circle,Livermore,94551,UsedOil,(925) 960-8223
+0,Autozone #4001,2615 South Chestnut Avenue,Fresno,93725,UsedOil,(559) 266-1391
+0,Jiffy Lube # 3245,1330 Holiday Lane,Fairfield,94534,UsedOil,(707) 429-9200
+0,Alex Auto Diagnostics & Smog Check,650 Oller St.,Mendota,93640,UsedOil,(559) 655-7070
+0,Jiffy Lube #429,2900 Florin Road,Sacramento,95822,UsedOil,(916) 375-1155
+0,Jiffy Lube #387,1640 Fulton Avenue,Sacramento,95825,UsedOil,(209) 298-5373
+0,"Ramon's Tire and Auto Service, Inc.",261 Oller Street,Mendota,93640,UsedOil,(559) 655-3739
+0,Jiffy Lube #656,3424 Northgate Blvd.,Sacramento,95834,UsedOil,(916) 375-1155
+0,Jiffy Lube #1463,3000 Capitol Ave,Sacramento,95816,UsedOil,(916) 375-1155
+0,Jiffy Lube #2354,3447 Marconi Avenue,Sacramento,95821,UsedOil,(916) 375-1155
+0,Jiffy Lube #1464,5464 Florin Rd,Sacramento,95823,UsedOil,(916) 375-1155
+0,Jiffy Lube #1142,709 E. Bidwell Street,Folsom,95630,UsedOil,(916) 375-1155
+0,Jiffy Lube #2952,7405 Sheldon Road,Elk Grove,95758,UsedOil,(916) 375-1155
+0,Jiffy Lube #381,4160 Sunrise Blvd,Fair Oaks,95628,UsedOil,(916) 375-1155
+0,Jiffy Lube #1138,10796 Olson Drive,Rancho Cordova,95670,UsedOil,(916) 375-1155
+0,AutoZone #4007,3000 Northgate Blvd,Sacramento,95833,UsedOil,(916) 922-6122
+0,Jiffy Lube #0610,1030 El Camino Real,San Carlos,94070,UsedOil,(714) 444-4940
+0,Jiffy Lube #0889,960 University Ave,Berkeley,94710,UsedOil,(714) 444-4940
+0,Jiffy Lube #0606,2492 Castro Valley Blvd,Castro Valley,94546,UsedOil,(510) 582-7677
+0,Jiffy Lube #0510,4500 Clayton Rd,Concord,94521,UsedOil,(714) 444-4940
+0,Jiffy Lube #1151,407 S Delaware St,San Mateo,94402,UsedOil,(714) 444-4940
+0,Jiffy Lube #1166,39197 Cedar Blvd,Newark,94560,UsedOil,(714) 444-4940
+0,Jiffy Lube #1347,6099 Geary Blvd,San Francisco,94121,UsedOil,(714) 444-4940
+0,Jiffy Lube #1404,153 W. Jackson Street,Hayward,94544,UsedOil,(510) 783-0850
+0,Jiffy Lube #1802,640 Whipple Avenue,Redwood City,94063,UsedOil,(714) 444-4940
+0,Jiffy Lube #0803,4300 Sonoma Blvd,Vallejo,94589,UsedOil,(714) 444-4940
+0,Jiffy Lube #1403,2099 Camino Ramon,San Ramon,94583,UsedOil,(925) 355-1777
+0,Jiffy Lube #2351,865 Abrego Street,Monterey,93940,UsedOil,(714) 444-4940
+0,Jiffy Lube #1328,3497 Stevens Crk Blvd,San Jose,95117,UsedOil,(408) 244-8261
+0,Jiffy Lube #2333,1902 N. Capitol Avenue,San Jose,95132,UsedOil,(714) 444-4940
+0,Jiffy Lube #2350,2415 Fremont Street,Monterey,93940,UsedOil,(714) 444-4940
+0,Davisville Express Lube,"2014 Lyndell Terrace, Suite A",Davis,95616,UsedOil,(530) 753-7543
+0,Jiffy Lube #2334,1705 Soquel Avenue,Santa Cruz,95062,UsedOil,(714) 444-4940
+0,Jiffy Lube #2339,2795 El Camino Real,Santa Clara,95051,UsedOil,(714) 444-4940
+0,Jiffy Lube #2352,6305 Jarvis Avenue,Newark,94560,UsedOil,(714) 444-4940
+0,Jiffy Lube #0296,1580 El Camino Real,San Bruno,94066,UsedOil,(714) 444-4940
+0,Normandin Chrysler Jeep,900 Capitol Exp/Auto Mall,San Jose,95136,UsedOil,(408) 979-3450
+0,Jiffy Lube #0295,999 W El Camino Real,Sunnyvale,94087,UsedOil,(714) 444-4940
+0,Jiffy Lube #0297,1387 Camden Ave,Campbell,95008,UsedOil,(714) 444-4940
+0,Jiffy Lube #0655,374 Miller Ave,Mill Valley,94941,UsedOil,(714) 444-4940
+0,Jiffy Lube #2314,535 W. Hamilton Ave,Campbell,95008,UsedOil,(714) 444-4940
+0,Jiffy Lube #2342,1141 W. El Camino Real,Mountain View,94040,UsedOil,(714) 444-4940
+0,Jiffy Lube #1283,4201 Middlefield Rd,Palo Alto,94303,UsedOil,(714) 444-4940
+0,Jiffy Lube #2345,884 Blossom Hill Road,San Jose,95123,UsedOil,(714) 444-4940
+0,Piercey Toyota,950 Thompson Street,Milpitas,95035,UsedOil,(408) 240-1501
+0,Jiffy Lube #1297,4195 El Camino Real,Palo Alto,94306,UsedOil,(714) 444-4940
+0,Jiffy Lube #1349,2030 Van Ness Avenue,San Francisco,94109,UsedOil,(714) 444-4940
+0,Jiffy Lube #2346,1030 Saratoga Avenue,San Jose,95129,UsedOil,(714) 444-4940
+0,Jiffy Lube #1405,1219 Concord Avenue,Concord,94520,UsedOil,(714) 777-4940
+0,Jiffy Lube #2332,2302 Almaden Road,San Jose,95125,UsedOil,(714) 444-4940
+0,Jiffy Lube #2335,2190 N. Broadway,Walnut Creek,94596,UsedOil,(714) 444-4940
+0,Jiffy Lube #2321,3363 Mt. Diablo Blvd,Lafayette,94549,UsedOil,(714) 444-4940
+0,Toyota 101,525 E. Bayshore Rd.,Redwood City,94063,UsedOil,(650) 365-5000
+0,Canyon Fork Ace Hardware,29181 Auberry Road,Prather,93651,UsedOil,(559) 855-8348
+0,Jiffy Lube #2344,3606 Camden Avenue,San Jose,95124,UsedOil,(714) 444-4940
+0,Pick-N-Pull Sacramento,7600 Stockton Blvd,Sacramento,95823,UsedOil,(916) 689-1985
+0,Valvoline Instant Oil Change,5200 Squire Wells Way,Riverbank,95367,UsedOil,(209) 863-0981
+0,Diablo Auto Care,15 Beta Court,San Ramon,94583,UsedOil,(925) 575-6026
+0,Imperial Truck and Trailer Repair,6494 Florin Perkins Road,Sacramento,95828,UsedOil,(916) 383-8899
+0,Jiffy Lube #3336,9170 Klagge Ct.,Elk Grove,95758,UsedOil,(916) 375-1155
+0,Foothill Auto Truck and Ag Parts Inc.,190 Park Blvd,Orange Cove,93646,UsedOil,(559) 626-4041
+0,Los Gatos Acura,16151 Los Gatos Blvd,Los Gatos,95032,UsedOil,(408) 358-8000
+0,Autozone #4014,6595 Commerce Drive,Rohnert Park,94928,UsedOil,(707) 206-9807
+0,Young's Auto Center,4285 Fruitridge Road,Sacramento,95820,UsedOil,(916) 452-3388
+0,Autozone #4012,189 Curtner,San Jose,95125,UsedOil,(408) 283-0256
+0,Valvoline Instant Oil Change,2225 W. Cleveland Avenue,Madera,93637,UsedOil,(559) 920-0333
+0,AUTOZONE #5315,2612 North Blackstone Avenue,Fresno,93703,UsedOil,(559) 243-9192
+0,Harborbay 76 Service,3255 Mecartney Road,Alameda,94502,UsedOil,(510) 523-7408
+0,Red Carpet Quick Lube,3601 W. Shaw,Fresno,93711,UsedOil,(559) 277-3777
+0,Autozone #3709,1633 West Robertson BLVD,Chowchilla,93610,UsedOil,(559) 665-1460
+0,Red Carpet Quick Lube,4433 N. Blackstone,Fresno,93726,UsedOil,(559) 227-6221
+0,Autozone #3718,1511 First Street,Livermore,94550,UsedOil,(925) 371-8195
+0,O’Reilly Auto Parts #2741,1309 S. Winchester Blvd,San Jose,95128,UsedOil,(408) 364-0250
+0,Jiffy Lube #3142,9611 Auto Center Drive,Elk Grove,95757,UsedOil,(916) 375-1155
+0,Jiffy Lube #1875,7841 Sunrise Blvd,Citrus Heights,95610,UsedOil,(916) 375-1155
+0,Jiffy Lube #2881,3470 Palmer Dr. ,Cameron Park,95682,UsedOil,(530) 677-1310
+0,Firestone #321277 El Dorado Hills,390 Green Valley Road,El Dorado Hills,95762,UsedOil,(916) 939-4084
+0,Jiffy Lube #0608,2517 S El Camino Real,San Mateo,94403,UsedOil,(714) 444-4940
+0,Jiffy Lube #1158,15015 Hesperian Blvd.,San LeAndro,94578,UsedOil,(714) 444-4940
+0,Jiffy Lube #1300,"2940 Bowers Ave,",Santa Clara,95051,UsedOil,(714) 444-4940
+0,Jiffy Lube #2355,19480 Stevens Creek Blvd,Cupertino,95014,UsedOil,(714) 444-4940
+0,Autozone #5515,698 Lincoln Avenue,Napa,94558,UsedOil,(707) 257-3822
+0,Northbay Automotive,929 Petaluma Boulevard South,Petaluma,94952,UsedOil,(707) 763-5547
+0,Elk Grove Automotive Inc.,8573 Elk Grove Blvd.,Elk Grove,95624,UsedOil,(916) 686-1616
+0,Lodi Automotive Supply,108 N. Sacramento St.,Lodi,95240,UsedOil,(209) 369-4754
+0,European Auto Repair Inc.,1573 Third Avenue,Walnut Creek,94597,UsedOil,(925) 944-5606
+0,AutoZone #4011,3020 South Sonoma Blvd,Vallejo,94590,UsedOil,(707) 553-1820
+0,AutoZone #4013,101 East Washington Street,Petaluma,94952,UsedOil,(707) 773-1103
+0,AutoZone #4024,4408 Elverta Road,Antelope,95843,UsedOil,(916) 722-1051
+0,AutoZone #4026,901 El Camino Real,Redwood City,94063,UsedOil,(650) 556-1684
+0,Performance Chevrolet,4811 Madison Avenue,Sacramento,95841,UsedOil,(916) 334-8050
+0,Martens Chevrolet,1050 I Street,Reedley,93654,UsedOil,(559) 638-2240
+0,Mathews Harley-Davidson,548 Blackstone Ave,Fresno,93701,UsedOil,(559) 233-5279
+0,AutoZone #4034,3150 Fowler Avenue,Clovis,93611,UsedOil,(559) 294-7147
+0,Jiffy Lube #3390,1013 E. Monte Vista Ave,Vacaville,95688,UsedOil,(707) 446-3035
+0,Fresno Lexus,777 W. Palmdon Drive,Fresno,93704,UsedOil,(559) 354-5560
+0,AutoZone #5602,2223 Fulton Avenue,Sacramento,95825,UsedOil,(916) 489-1266
+0,Lucky's Express,22615 Ave 18 1/2,Madera,93637,UsedOil,(559) 664-2247
+0,AutoZone #4028,7021 Main Street,American Canyon,94503,UsedOil,(707) 649-2611
+0,AutoZone #5324,14923 Whitesbridge Road,Kerman,93630,UsedOil,(559) 846-5319
+0,AutoZone #4023,14270 San Pablo Avenue,San Pablo,94806,UsedOil,(510) 236-3100
+0,Honker Cut Marine,11500 W 8 Mile Road,Stockton,95219,UsedOil,(209) 476-0103
+0,Cherry Pit,812 East Monte Vista Ave,Vacaville,95688,UsedOil,(707) 451-1233
+0,AutoZone #4073,6212 Mission Street,Daly City,94014,UsedOil,(650) 755-5145
+0,Jiffy Lube #2330,228 N. Main Street,Salinas,93901,UsedOil,(714) 444-4940
+0,Jiffy Lube #1947,701 1st Street ,Gilroy,95020,UsedOil,(714) 444-4940
+0,Express Lube,1395 N. Willow Avenue,Clovis,93619,UsedOil,(559) 322-8040
+0,Lamorinda Auto Care Inc.,1455 Moraga Way,Moraga,94556,UsedOil,(925) 631-9644
+0,Alemany & Ocean 76 Auto Care,1798 Alemany Blvd,San Francisco,94112,UsedOil,(415) 584-4719
+0,Sunnyside Sinclair,5605 E. Kings Canyon Road,Fresno,93727,UsedOil,(559) 252-3379
+0,AutoZone #4031,1114 Water Street,Santa Cruz,95062,UsedOil,(831) 425-1247
+0,AutoZone #4048,16025 Monterey Road,Morgan Hill,95037,UsedOil,(408) 778-2840
+0,AutoZone #4046,2277 Alum Rock Avenue,San Jose,95116,UsedOil,(408) 258-2029
+0,AutoZone #4020,8312 Elk Grove Florin Road,Sacramento,95829,UsedOil,(901) 495-7129
+0,AutoZone #4090,3901 Santa Rita Road,Pleasanton,94588,UsedOil,(925) 469-0056
+0,Jiffy Lube,1701 Yosemite Blvd,Modesto,95354,UsedOil,(209) 575-1701
+0,Precise Auto dba Precise Chevron,1890 19th Avenue,San Francisco,94122,UsedOil,(415) 731-2733
+0,Jiffy Lube #384,6709 Watt Ave.,North Highlands,95660,UsedOil,(916) 375-1155
+0,OilStop,301 W. Kettleman Lane,Lodi,95240,UsedOil,(530) 400-2613
+0,Weatherford BMW,735 Ashby Avenue,Berkeley,94710,UsedOil,(510) 654-8280
+0,The Toyota Scion Specialist,61 Willow Street,Redwood City,94134,UsedOil,(650) 363-1290
+0,North Bay Ford Lincoln,1999 Soquel Ave.,Santa Cruz,95062,UsedOil,(831) 457-5858
+0,City of Berkeley Marina,201 University Avenue,Berkeley,94710,UsedOil,(510) 981-6744
+0,Timmons Auto & Truck Repair,2855 Contra Costa Blvd,Pleasant Hill,94523,UsedOil,(925) 938-9665
+0,AutoZone #5595,3609 Bradshaw Road,Sacramento,95826,UsedOil,(916) 364-5917
+0,10 Minute Lube N' Oil,1620 Countryside Drive,Turlock,95380,UsedOil,(209) 669-2704
+0,AutoZone #3779,3512 Manthey Rd,Stockton,95206,UsedOil,(209) 982-4127
+0,Pro Alignment & Brake,2875 S. Winchester Blvd.,Campbell,95008,UsedOil,(408) 370-1421
+0,Dallas Shanks & Son's,40 Sycamore Ave,Brentwood,94513,UsedOil,(925) 634-9213
+0,Diamond Mitsubishi Fuso,1505 N. 4th St.,San Jose,95112,UsedOil,(408) 263-7300
+0,Quality Tune Up #23,92 Serra Way,Milpitas,95035,UsedOil,(408) 262-3211
+0,Quality Tune Up,3146 S. Bascom Ave.,San Jose,95124,UsedOil,(408) 377-4764
+0,BMW Motorcycles of San Francisco,489 6th St.,San Francisco,94103,UsedOil,(415) 503-9988
+0,Devlin Road Recycling & Transfer Facility,889 Devlin Road,American Canyon,94503,UsedOil,(707) 256-3500
+0,"Spiteri's Auto Service, Inc.",292 Old County Road,Belmont,94002,UsedOil,(650) 593-4758
+0,AutoZone #4084,1575 South Van Ness Avenue,San Francisco,94110,UsedOil,(415) 550-8630
+0,Concord Chevrolet,1330 Concord Ave.,Concord,94520,UsedOil,(925) 682-6400
+0,Petro Stopping Centers,28991 West Gonzaga,Santa Nella,95322,UsedOil,(209) 827-8030
+0,AutoZone #4045,6525 Fair Oaks Blvd,Carmichael,95608,UsedOil,(916) 481-1428
+0,Mick's Automotive Inc.,1257 Thompson Ave. #D,Santa Cruz,95062,UsedOil,(831) 464-6855
+0,AutoZone #4029,2009 Somersville Rd.,Antioch,94509,UsedOil,(925) 756-6095
+0,AutoZone #4071,14850 East 14th Street,San Leandro,94578,UsedOil,(510) 351-4718
+0,AutoZone #4074,1641 N Street,Newman,95360,UsedOil,(209) 862-2081
+0,Integrity Automotive Service,107 Whispering Pines Drive,Scotts Valley,95066,UsedOil,(831) 439-9631
+0,Firestone #356612 Tracy,940 Central Avenue,Tracy,95376,UsedOil,(209) 221-7164
+0,Firestone #308529 Brentwood,6836 Lone Tree Way,Brentwood,94513,UsedOil,(925) 634-8404
+0,Firestone #352686 Madison,5041 Madison Avenue,Sacramento,95841,UsedOil,(916) 482-7085
+0,Acur-it Auto Repair,5677 Redwood Drive,Rohnert Park,94928,UsedOil,(707) 584-1424
+0,BMW of Roseville,500 Automall Drive,Roseville,95661,UsedOil,(916) 787-3908
+0,Madera Chevrolet Toyota,1300 Country Club Drive,Madera,93638,UsedOil,(559) 674-9000
+0,The Ford Store San Leandro,1111 Marina Boulevard,San Leandro,94577,UsedOil,(510) 347-4191
+0,Bo's Imports Inc.,28184 Industrial Blvd,Hayward,94545,UsedOil,(510) 784-0158
+0,Mendota Smog & Repair,1415 9th Street,Mendota,93640,UsedOil,(559) 655-7507
+0,Pro 10 Minute Oil Change,1135 Tully Road,Modesto,95350,UsedOil,(209) 527-7691
+0,"County of Sacramento, North Area Recovery Station",4450 Roseville Road,North Highlands,95660,UsedOil,(916) 876-9458
+0,Magnussen Lexus,5600 Cushing Parkway,Fremont,94538,UsedOil,(510) 492-5640
+0,Pick-N-Pull/ Newark #43,7400 Mowry Ave,Newark,94560,UsedOil,(510) 742-2277
+0,Pick-N-Pull/ Richmond #12,1015 Market Ave,Richmond,94806,UsedOil,(510) 407-4178
+0,Pick-N-Pull/ San Jose North #40,1065 Commercial Street,San Jose,95112,UsedOil,(408) 452-1274
+0,Pick-N-Pull/ Oakland #70,8451 San Leandro Boulevard,Oakland,94621,UsedOil,(510) 729-7010
+0,Pick-N-Pull/ Antelope #81,8640 Antelope North Road,Antelope,95843,UsedOil,(916) 721-4040
+0,Pick-N-Pull/ Fresno #15,3230 E Jensen Ave,Fresno,93706,UsedOil,(559) 233-3882
+0,Pick-N-Pull/ Fairfield #11,4659 Air Base Parkway,Fairfield,94533,UsedOil,(707) 425-1044
+0,"County of Sacramento, Kiefer Landfill",12701 Kiefer Blvd.,Sloughhouse,95683,UsedOil,(916) 876-9458
+0,Jim's Cycles,2805 Chanticleer Avenue,Santa Cruz,95065,UsedOil,(831) 476-8750
+0,"Recycling Industries, Inc.",4741 Watt Avenue,North Highlands,95660,UsedOil,(916) 452-3961
+0,Mercedes-Benz of Marin,"540 Francisco Blvd., West",San Rafael,94901,UsedOil,(626) 580-1366
+0,Sacramento 49er Travel Plaza,2828 El Centro Road,Sacramento,95833,UsedOil,(916) 920-9131
+0,AutoZone #4151,807 27th Street,Oakland,94607,UsedOil,(510) 208-1914
+0,AutoZone #4145,361 Roseville Square,Roseville,95678,UsedOil,(916) 782-1525
+0,AutoZone #5225,1500 E. Hatch Rd,Modesto,95351,UsedOil,(209) 537-5481
+0,AUTOZONE #3758,865 East Manning Avenue,Parlier,93648,UsedOil,(559) 646-9982
+0,Vasco Quick Lube,1443 N. Vasco Road,Livermore,94551,UsedOil,(916) 417-7001
+0,AutoZone #4042,900 North Street,Firebaugh,93622,UsedOil,(559) 659-1704
+0,AutoZone #4036,3828 East Main Street,Stockton,95215,UsedOil,(209) 463-3374
+0,Martinez Marina,7 North Court Street,Martinez,94553,UsedOil,(925) 313-0942
+0,Hopkins Acura of Fairfield,2459 Auto Mall Parkway,Fairfield,94533,UsedOil,(707) 427-1000
+0,AutoZone # 4136,7609 Brentwood Boulevard,Brentwood,94513,UsedOil,(925) 634-1585
+0,Autozone #4170,28150 Mission Blvd,Hayward,94544,UsedOil,(901) 495-7217
+0,AutoZone #6218,262 Reservation Road,Marina,93933,UsedOil,(831) 384-7807
+0,Autozone #4159,5011 Laguna Blvd,Elk Grove,95758,UsedOil,(916) 683-1069
+0,Valvoline Instant Oil Change,6231 N. Blackstone Ave.,Fresno,93710,UsedOil,(559) 438-3023
+0,California Waste Recovery Systems,1149 Dunbar Road,Arnold,95223,UsedOil,(209) 795-1532
+0,O'Reilly Auto Parts #3915,12122 Yosemite Blvd,Waterford,95386,UsedOil,(209) 874-5256
+0,O'Reilly Auto Parts #4335,248 Sperry Ave,Patterson,95363,UsedOil,(209) 895-3754
+0,O'Reilly Auto Parts #3971,1620 Bell Lane,Atwater,95301,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #2350,6425 Antelope Road,Citrus Heights,95621,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #4452,1810 Mitchell Rd,Ceres,95307,UsedOil,(209) 581-0785
+0,EDS 76 Station,2400 15th Street,Sacramento,95818,UsedOil,(916) 446-7676
+0,O'Reilly Auto Parts #4429,3015 Monterey Rd,San Jose,95111,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #3921,15196 W Whitesbridge Avenue,Kerman,93630,UsedOil,(417) 862-2674
+0,Golden State Peterbilt,4390 S. Bagley,Fresno,93725,UsedOil,(559) 442-1590
+0,Steve's Auto & Truck Parts,555 S. Main Street,Bishop,93514,UsedOil,(760) 873-7131
+0,O'Reilly Auto Parts #3114,1064 South White Road,San Jose,95127,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #2760,40088 Highway 49,Oakhurst,93644,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #3525,1915 El Camino Real West,Mountain View,94040,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #2624,1111 Branham Lane,San Jose,95118,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #2754,1811 West San Carlos,San Jose,95128,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #3469,18506 Prospect Road,Saratoga,95070,UsedOil,(417) 862-2674
+0,N.O.D. Auto Service,130 Industrial Avenue Unit B,Brisbane,94005,UsedOil,(415) 988-7557
+0,AutoZone #4096,769 North 13th Street,San Jose,95112,UsedOil,(408) 977-1628
+0,AutoZone #4128,2051 Monument Boulevard,Concord,94520,UsedOil,(925) 798-5265
+0,AutoZone #6217,941 West March Lane,Stockton,95207,UsedOil,(209) 473-3714
+0,Fresno County Regional Permanent Household Hazardo,18950 West American Avenue,Kerman,93630,UsedOil,(559) 600-4259
+0,O'Reilly Auto Parts #4662,649 Paradise Road,Modesto,95351,UsedOil,(209) 524-4352
+0,O'Reilly Auto Parts #4697,2100 Standiford Avenue,Modesto,95350,UsedOil,(209) 529-1459
+0,O'Reilly Auto Parts #4719,15079 S. Harlan Road,Lathrop,95330,UsedOil,(417) 862-2674
+0,Gumaro's Auto Repair Inc.,1705 Auto Center Drive,Antioch,94509,UsedOil,(925) 628-0729
+0,Express Oil Change,2700 El Portal Drive,San Pablo,94806,UsedOil,(510) 222-4466
+0,AutoZone #6228,11201 Prospect Drive,Jackson,95642,UsedOil,(209) 257-1787
+0,Freeman Lexus,2845 Corby Avenue,Santa Rosa,95407,UsedOil,(707) 542-1791
+0,Jiffy Lube #2761,200 East Yosemite,Merced,95340,UsedOil,(209) 726-7790
+0,Jiffy Lube #2764,2679 First Street,Atwater,95301,UsedOil,(209) 358-4936
+0,Kevin L. Hinkley Auto Tech,5269 Crow Canyon Road,Castro Valley,94552,UsedOil,(510) 881-1052
+0,Napa Ford Lincoln,570 Soscol Avenue,Napa,94559,UsedOil,(707) 255-2580
+0,Jiffy Lube #3736,649 Harbor Boulevard,West Sacramento,95691,UsedOil,(916) 372-7730
+0,Kings Express Tire and Lube,7891 Stockton Boulevard,Sacramento,95823,UsedOil,(209) 648-9955
+0,LKQ All Engine Distributing,1314 E. North Avenue,Fresno,93725,UsedOil,(559) 352-0150
+0,Speedee Oil Change & Tune-Up,711 West Grant Line Road,Tracy,95376,UsedOil,(209) 612-6056
+0,Montezuma Fire District Station 182,7432 Lindbergh Street,Stockton,95206,UsedOil,(209) 464-5234
+0,City of Reedley,845 G Street,Reedley,93654,UsedOil,(559) 647-6272
+0,O'Reilly Auto Parts #4755,161 S. Highway 26,Valley Springs,95252,UsedOil,(417) 862-2674
+0,Turlock Chrysler Dodge Jeep Ram,1600 Auto Mall Drive,Turlock,95380,UsedOil,(209) 250-5815
+0,Autos International,2201 Commerce Avenue,Concord,94520,UsedOil,(925) 676-0440
+0,AutoZone #6243,1717 W. San Carlos Avenue,San Jose,95128,UsedOil,(408) 288-5149
+0,Midas/Speedee,3741 Washington Boulevard,Fremont,94538,UsedOil,(650) 219-9736
+0,O'Reilly Auto Parts #2565,4511 Clayton Road,Concord,94521,UsedOil,(925) 798-6644
+0,O'Reilly Auto Parts #3462,1033 The Alameda,San Jose,95126,UsedOil,(408) 288-7660
+0,O'Reilly Auto Parts #2578,7102 Santa Teresa Boulevard,San Jose,95139,UsedOil,(408) 281-2350
+0,O’Reilly Auto Parts #2559,816 Oakdale Road,Modesto,95355,UsedOil,(209) 527-3660
+0,O'Reilly Auto Parts #2592,1144 Geer Road,Turlock,95380,UsedOil,(417) 862-2674
+0,O'Reilly Auto Parts #2553,2620 California Street,Mountain View,94040,UsedOil,(650) 941-4440
+0,Recology Vacaville Solano Recycling Center,855 1/2 Davis Street,Vacaville,95687,UsedOil,(707) 448-2945
+0,Tilbury Auto Parts,1730 Jackson Avenue,Escalon,95320,UsedOil,(209) 838-7131
+0,King Island Marina,11530 W. Eight Mile Road,Stockton,95219,UsedOil,(209) 477-5364
+0,AutoZone #4166,5369 Fairside Way,Antioch,94531,UsedOil,(925) 470-4569
+0,AutoZone #6260,33 West Lake Avenue,Watsonville,95076,UsedOil,(831) 740-4082
+0,AutoZone #3337,2335 El Camino Real,Santa Clara,95050,UsedOil,(408) 247-3525
+0,AutoZone #5312,3480 Palmer Drive,Cameron Park,95682,UsedOil,(530) 676-4033
+0,AutoZone #6254,1249 Elgin Avenue,Dos Palos,93620,UsedOil,(209) 387-6005
+0,O'Reilly Auto Parts #4847,1800 West Texas Street,Fairfield,94533,UsedOil,(417) 862-2674
+0,Jiffy Lube #2763,1440 V Street,Merced,95340,UsedOil,(209) 723-2645
+0,B & B Foreign Car Repair,1750 Tanen Street,Napa,94559,UsedOil,(707) 255-7588
+0,Stevens Creek Chevrolet,3640 Stevens Creek Blvd,San Jose,95117,UsedOil,(408) 510-3543
+0,Kniesels Auto Service Centers,980 Riverside Ave,Roseville,95678,UsedOil,(916) 768-3827
+0,Kniesels Auto Service Centers,49 Bicentenniel Circle,Sacramento,95824,UsedOil,(916) 737-5888
+0,O'Reilly Auto Parts #4864,1401 N Blackstone Ave,Fresno,93703,UsedOil,(417) 862-2674
+0,Gill Auto Group,1100 S Madera Ave,Madera,93637,UsedOil,(559) 674-5661
+0,CarScience Auto Repair,4426 Peralta Boulevard,Fremont,94536,UsedOil,(510) 894-2473
+0,J & B Auto Sales,792 N Street,Firebaugh,93622,UsedOil,(559) 217-4451
+0,Sanford Firestone,705 Hickey Boulevard,Pacifica,94044,UsedOil,(650) 355-1154
+0,AutoZone #3708,700 Derrick Avenue,Mendota,93640,UsedOil,(559) 424-8000
+0,AutoZone #6257,390 North Sunnyside,Clovis,93611,UsedOil,(559) 862-2446
+0,AutoZone #4099,34529 Alvarado-Niles Boulevard,Union City,94587,UsedOil,(510) 404-2390
+0,Speed Oil Change Center ,3601 Pearl Avenue,San Jose,95136,UsedOil,(510) 985-1010
+0,Speed Oil Change Center,1240 W El Camino Real,Sunnyvale,94087,UsedOil,(510) 985-1010
+0,Speed Oil Change Center,2601 Decoto Road,Union City,94587,UsedOil,(510) 985-1010
+0,Speed Oil Change Center,3478 Homestead Road,Santa Clara,95051,UsedOil,(510) 985-1010
+0,Ka-Pa Tires and Auto Services,4011 3rd Street,San Francisco,94124,UsedOil,(415) 824-5272
+0,"Zaks Auto Shack, Inc.",24269 State Highway 108,Twain Harte,95383,UsedOil,(209) 586-2721
+0,Jiffy Lube #3748,1025 Powers Court,Turlock,95380,UsedOil,(916) 375-1155
+0,San Ramon Valley Import Center,"31 Beta Court, Suite G",San Ramon,94583,UsedOil,(925) 838-0991
+0,Clayton Quality Auto Services,3405 Clayton Road,Concord,94519,UsedOil,(925) 288-1500
+0,AutoZone #3683,11950 Yosemite Boulevard,Waterford,95386,UsedOil,(209) 874-9580
+0,AutoZone #3675,8895 Greenback Lane,Orangevale,95662,UsedOil,(916) 850-6650
+0,Morello Chevron Tire Services,2295 Morello Avenue,Pleasant Hill,94523,UsedOil,(925) 685-1975
+0,Walnut Creek Automotive,1855 D Contra Costa Boulevard,Pleasant Hill,94523,UsedOil,(925) 849-6440
+0,Virginia Hills Spirit Gas,6655 Alhambra Avenue,Martinez,94553,UsedOil,(925) 938-9948
+0,Leo's Tire Service ,22055 W. Manning Avenue,San Joaquin,93660,UsedOil,(559) 693-2199
+0,"ToyotaPro, Inc.",1700 Concord Avenue,Concord,94520,UsedOil,(925) 671-2722
+0,Valvoline Instant Oil Change,120 McHenry Avenue,Modesto,95354,UsedOil,(209) 526-7038
+0,O'Reilly Auto Parts #2572,15525 Los Gatos,Los Gatos,95032,UsedOil,(408) 358-2774
+0,"H & D Auto Repair, Inc.",1471 East 3rd Avenue,San Mateo,94401,UsedOil,(650) 342-8818
+0,O'Reilly Auto Parts #2987,1051 1st Street,Gilroy,95020,UsedOil,(408) 842-6462
+0,O'Reilly Auto Parts #2806,2660 Union Avenue,San Jose,95124,UsedOil,(408) 559-7102
+0,O'Reilly Auto Parts #4858,4907 Joe Howard Street,Mariposa,95338,UsedOil,(209) 966-3697
+0,AutoZone #3668,1650 N. First Street,Dixon,95620,UsedOil,(707) 679-5118
+0,Castrol Premium Lube Express,3220 San Pablo Dam Road,El Sobrante,94803,UsedOil,(510) 222-2300
+0,O'Reilly Auto Parts #2557,1775 Willow Pass Road,Concord,94520,UsedOil,(925) 798-1181
+0,Jiffy Lube #3814,6542 Fair Oaks Boulevard,Carmichael,95608,UsedOil,(916) 375-1155
+0,Sundance Car Wash & Express Lube,420 Pioneer Avenue,Woodland,95776,UsedOil,(530) 661-2504
+0,Jiffy Lube #3765,7037 N. Blackstone Avenue,Fresno,93650,UsedOil,(559) 519-7300
+0,Saul's Smog and Repair,"2030 N Street, Suite B",Firebaugh,93622,UsedOil,(559) 408-9559
+0,AutoZone #6164,2600 Crows Landing Road,Modesto,95358,UsedOil,(209) 702-6610
+0,Dublin Chevrolet Cadillac,4200 John Monego Ct.,Dublin,94568,UsedOil,(925) 479-3539
+0,Bert Williams & Sons,525 Northbay Dr.,Napa,94559,UsedOil,(707) 255-7003
+0,Pick-n-Pull Auto Dismantlers,20856 Spence Road,Salinas,93908,UsedOil,(510) 839-4714
+0,O'Reilly Auto Parts #5620,16229 King Street,Delhi,95315,UsedOil,(209) 262-1342
+0,AutoZone #6281,531 S. Main Street,Salinas,93901,UsedOil,(831) 296-8532
+0,Channel Union 76,51424 Hwy 395,Lee Vining,93541,UsedOil,(760) 647-6303
+0,Imperial Truck Wash and Repair,2142 W Yosemite Ave,Manteca,95337,UsedOil,(209) 239-8111
+0,AutoZone #3695,3089 E Tulare Street,Fresno,93721,UsedOil,(559) 500-7982
+0,Siloe Community Tires LLC,"487 E. 6th Street, Suite B",Tracy,95376,UsedOil,(510) 921-7991
+0,Faxon Garage,545 Faxon Avenue,San Francisco,94112,UsedOil,(415) 587-1063
+0,AutoZone #5514,1488 Main St,Salinas,93906,UsedOil,(831) 444-0701
+0,Valvoline Instant Oil Change,549 Pacheco Blvd.,Los Banos,93635,UsedOil,(559) 920-0333
+0,AutoZone #5590,3675 Elkhorn Blvd,North Highlands,95660,UsedOil,(916) 344-1322
+0,A & A Tire Service & Auto Repair,1093 61st Street,Oakland,94608,UsedOil,(510) 923-1833
+0,AutoZone #4489,1125 Park Street,Alameda,94501,UsedOil,(510) 217-1088
+0,AutoZone #4488,779 E Monte Vista,Vacaville,95688,UsedOil,(707) 305-4220
+0,Joe's Tire & Lube,4415 Howard Road,Westley,95387,UsedOil,(209) 895-7005
+0,O'Reilly Auto Parts,420 Elkhorn Boulevard,RIO LINDA,95673,UsedOil,(916) 238-1038
+0,Sullivan's Tire Pros,40122 Highway 49,Oakhurst,93644,UsedOil,(559) 658-8767
+0,Le's Auto Body & Engine Repair,1550 E. 12th Street,Oakland,94606,UsedOil,(510) 533-0662
+0,Affinity Truck Center,2707 S. East Ave,Fresno,93725,UsedOil,(559) 262-1553
+0,"E.F. Kludt & Sons, Inc.",1126 E. Pine Street,Lodi,95240,UsedOil,(209) 368-0634
+0,AutoZone #6299,5566 Cottle Road,San Jose,95123,UsedOil,(669) 234-1251
+0,O’Reilly Auto Parts #3183,1360 W Olive Ave,Merced,95348,UsedOil,(209) 723-5426
+0,Calderon Tires Santa Cruz,309 Front St,Santa Cruz,95060,UsedOil,(831) 900-8611
+0,"Woodside Auto & Tire, Inc.",333 Woodside Rd,Redwood City,94061,UsedOil,(650) 363-0460
+0,AutoZone #5124,4036 Lone Tree Way,Antioch,94531,UsedOil,(925) 470-4821
+0,"Curt's Auto & RV Repair, Inc.",195 S. Pasadena Ave,Waterford,95386,UsedOil,(209) 874-1835
+0,AutoZone #4169,1812 Hillsdale Ave,San Jose,95124,UsedOil,(669) 234-1000
+0,Meineke Car Care Center #2397,3464 Foothill Blvd,Oakland,94601,UsedOil,(510) 842-8094
+0,Recology Davis,2727 2nd Street,Davis,95618,UsedOil,(707) 450-2325
+0,San Joaquin County Fleet Services,444 S Wilson Way,Stockton,95205,UsedOil,(209) 468-3099
+0,T-Rex Auto Repair,2577 Elkhorn Blvd,Rio Linda,95673,UsedOil,(916) 332-6995
+0,Village West Marina,6649 Embarcadero Dr,Stockton,95219,UsedOil,(209) 951-1551
+0,AutoZone #6289,10047 Bruceville Rd,Elk Grove,95757,UsedOil,(916) 897-5081
+0,O'Reilly Auto Parts #5820,"2050 Town Center Plaza, B110",West Sacramento,95691,UsedOil,(916) 562-1970
+0,Jiffy Lube #3808,3276 Grant Line Rd,Tracy,95304,UsedOil,(209) 229-7918
+0,Perfect Lube,1792 El Camino Real,San Carlos,94070,UsedOil,(650) 892-6463
+0,AutoZone #3698,40059 Highway 41,Oakhurst,93638,UsedOil,(559) 692-9663
+0,O'Reilly Auto Parts #3508,361 E Washington St,Petaluma,94952,UsedOil,(707) 763-7204
+0,Sonora Express Lube,14490 Mono Way,Sonora,95380,UsedOil,(209) 634-5882
+0,Sonora Express Lube #2,6 Pesce Way,Sonora,95370,UsedOil,(209) 634-5882
+0,O'Reilly Auto Parts #3532,1995 Sebastopol Road,Santa Rosa,95407,UsedOil,(707) 526-0559
+0,Penske Used Truck Center,3025 Evergreen Ave,West Sacramento,95691,UsedOil,(916) 371-8250
+0,Livermore Ford Lincoln,2266 Kitty Hawk Road,Livermore,94551,UsedOil,(925) 456-1209
+0,Tiki Lagun Resort and Marina,12988 W McDonald Road,Stockton,95206,UsedOil,(209) 641-2526
+0,Gilroy Chevrolet Cadillac,6720 Auto Mall Court,Gilroy,95020,UsedOil,(408) 842-9301
+0,O’Reilly Auto Parts #5817,1005 Park Blvd,Orange Cove,93646,UsedOil,(559) 425-0146
+0,"Sierra Marina, Inc.",45795 Tollhouse Road,Shaver Lake,93664,UsedOil,(559) 841-3324
+0,O'Reilly Auto Parts #2937,560 Pacheco Blvd,Los Banos,93635,UsedOil,(209) 826-0318
+0,Pick-N-Pull/Rocklin #3,6355 Pacific St (Taylor Rd.),Rocklin,95677-3424,UsedOil,(916) 784-6350
+0,AutoZone #3323,400 S 2nd St,Patterson,95363,UsedOil,(209) 892-4500
+0,O’Reilly Auto Parts #3509,740 South Main Street,Angels Camp,95222,UsedOil,(209) 736-6889
+0,AutoZone #3367,5272 Monterey Highway,San Jose,95111,UsedOil,(408) 225-1117
+0,AutoZone #5310,652 Bailey Road,BAY POINT ,94565-4306,UsedOil,(925) 709-0131
+0,OILSTOP,8046 Orchard Loop Lane,Elk Grove,95624,UsedOil,(916) 525-4022
+0,Firestone #321305 Elk Grove,8055 Orchard Loop Lane,Elk Grove,95624,UsedOil,(916) 689-2080
+0,Walker Transfer Station,280 Offal Road,Walker,96107,UsedOil,(760) 932-5440
+0,Mono County Department of Public Works,207 Jack Sawyer,Bridgeport,93517,UsedOil,(760) 932-5462
+0,AutoZone #4019,2225 Patterson Road,Riverbank,95367,UsedOil,(209) 863-8295
+0,Downtown Auto Center,4145 Broadway Auto Row,Oakland,94611,UsedOil,(510) 547-4436
+0,AutoZone #4082,2510 Santa Rosa Avenue,Santa Rosa,95407,UsedOil,(707) 544-1097
+0,Art's Automotive,2871 San Pablo Ave,Berkeley,94702,UsedOil,(510) 540-7095
+0,Speedee Oil Change & Tuneup,1600 Sullivan Avenue,Daly City,94015,UsedOil,(650) 755-8777
+0,AutoZone #4188,3095 G Street,Merced,95340,UsedOil,(209) 626-3280
+0,AutoZone #6219,456 Winton Parkway,Livingston,95334,UsedOil,(209) 394-0121
+0,AutoZone #6222,41339 Road 128,Orosi,93647,UsedOil,(559) 315-7080
+0,AutoZone #6258,10121 Folsom Boulevard,Rancho Cordova,95670,UsedOil,(916) 533-0950
+0,OilStop,330 N. Sunrise Avenue,Roseville,95661,UsedOil,(530) 400-2613
+0,Sugar Barge Marina,1440 Sugar Barge Marina,Bethel Island,94511,UsedOil,(925) 684-9075
+0,Jellystone's Tower Park Resort,14900 West SR 12,Lodi,95242,UsedOil,(410) 808-5458
+0,Quality Car Care,92 Serra Way,Milpitas,95035,UsedOil,(408) 262-3211
+0,Monterey Regional Waste Management District,14201 Del Monte Blvd.,Marina,93933,UsedOil,(831) 264-6384
+0,O'Reilly Auto Parts,360 4th Street,Gustine,95322,UsedOil,(209) 854-4060
+0,AutoZone #6205,117 Riley Way,Valley Springs,95252,UsedOil,(209) 772-2914
+0,AutoZone #4464,1350 Park Blvd,Orange Cove,93646,UsedOil,(559) 626-7518
+0,Holland Service,2203 San Pablo Ave,Berkeley,94702,UsedOil,(510) 845-7944
+0,OilStop,2009 El Camino Real,San Mateo,94403,UsedOil,(520) 940-4044
+0,OilStop,404 Saratoga Ave,San Jose,95129,UsedOil,(520) 940-4044
+0,OilStop,6111 Redwood Drive,Rohnert Park,94928,UsedOil,(520) 940-4044
+0,OilStop,601 E Washington Street,Petaluma,94952,UsedOil,(520) 940-4044
+0,OilStop,2190 Cleveland Ave,Santa Rosa,95401,UsedOil,(520) 940-4044
+0,OilStop,5070 Redwood Drive,Rohnert Park,94928,UsedOil,(520) 940-4044
+0,OilStop,1004 Lakeville Street,Petaluma,94952,UsedOil,(520) 940-4044
+0,Oil Changer #804,2700 El Portal Drive,San Pablo,94806,UsedOil,(925) 734-5816
+0,O’Reilly Auto Parts #2582,455-A Blossom Hill Road,San Jose,95123,UsedOil,(408) 629-7371
+0,Hillsdale Arco Auto Repair,880 E Hillsdale Blvd,Foster City,94404,UsedOil,(650) 349-6938
+0,Piercey Honda,920 Thompson Street,Milpitas,95035,UsedOil,(408) 750-6698
+0,City of Elk Grove-Special Waste Collection Center,9255 Disposal Lane,Elk Grove,95624,UsedOil,(916) 927-3232
+0,Oil Changer #101,640 W Grand Ave,Oakland,94612,UsedOil,(510) 444-0205
+0,Oil Changer #105 ,1700 E 14th Street,San Leandro ,94577,UsedOil,(925) 201-9378
+0,Oil Changer #106,3418 Park Blvd,Oakland ,94610,UsedOil,(925) 201-9378
+0,Oil Changer #108,2425 Lincoln Ave ,Alameda ,94501,UsedOil,(925) 201-9378
+0,Oil Changer #202,2762 El Camino Real,Redwood City,94061,UsedOil,(925) 201-9378
+0,Oil Changers #203,780 San Antonio Rd,Palo Alto,94303,UsedOil,(925) 201-9378
+0,Oil Changer #204,889 El Camino Real,Santa Clara,95050,UsedOil,(925) 201-9378
+0,Oil Changer #301,7194 Village Pkwy,Dublin,94568,UsedOil,(925) 201-9378
+0,Oil Changer #302,26070 Mission Blvd,Hayward,94544,UsedOil,(925) 201-9378
+0,Oil Changer #303,2880 Skyline Blvd,Pacifica,94044,UsedOil,(925) 201-9378
+0,Oil Changer #304,1247 Portola Ave,Livermore,94550,UsedOil,(925) 201-9378
+0,Oil Changer #401,3858 Railroad Ave,Pittsburg,94565,UsedOil,(925) 201-9378
+0,Oil Changer #403,2246 San Pablo Ave,Berkely,94702,UsedOil,(925) 201-9378
+0,Oil Changer #404,3144 Shane Drive,Richmond,94806,UsedOil,(925) 201-9378
+0,Oil Changer #405,131 N Wolfe Road,Sunnyvale,94086,UsedOil,(925) 201-9378
+0,Oil Changer #601,994 W Winton Ave,Hayward,94545,UsedOil,(925) 201-9378
+0,Oil Changer #602,2985 Monterey Road,San Jose,95111,UsedOil,(925) 201-9378
+0,Oil Changer #605,4510 W Shaw Avenue,Fresno,93722,UsedOil,(925) 201-9378
+0,Oil Changer #607,816 Clovis Avenue,Clovis,93612,UsedOil,(925) 201-9378
+0,Oil Changer #611,944 Willow Road,Menlo Park,94025,UsedOil,(925) 201-9378
+0,Oil Changer #612,2171 San Ramon Valley Blvd,San Ramon,94583,UsedOil,(925) 201-9378
+0,Oil Changer #618,4088 Thornton Avenue,Fremont,94536,UsedOil,(925) 201-9378
+0,Oil Changer #623,5308 Old Redwood Highway,Petaluma,94954,UsedOil,(925) 201-9378
+0,Oil Changer #624,794 Admiral Callaghan Ln,Vallejo,94591,UsedOil,(925) 201-9378
+0,Oil Changer #625,796 Oak Grove Road,Concord,94518,UsedOil,(925) 201-9378
+0,Oil Changer #626,133 Vintage Way,Novato,94945,UsedOil,(925) 201-9378
+0,O’Reilly Auto Parts #3495,"610 San Pablo Ave, Suite L",Pinole,94564,UsedOil,(510) 741-1161
+0,AutoZone #4399,3455 Arden Ed.,Hayward,94545,UsedOil,(510) 244-5583
+0,Master Tech,60 W Main St.,Woodland,95695,UsedOil,(530) 668-1340
+0,Oil Changers #806,1360 B street,Hayward,94541,UsedOil,(925) 734-5816
+0,AutoNation Subaru Roseville,250 Automall Dr,Roseville,95661,UsedOil,(916) 774-7802
+0,Speedee Oil Change - Midas,1496 Freedome Blvd,Watsonville,95076,UsedOil,(831) 722-9950
+0,AutoZone #6758,3801 Alhambra Ave.,Martinez,94553,UsedOil,(925) 608-4315
+0,Rolinda Farm Supply,9191 W Whitesbridge Ave. ,Fresno,93706,UsedOil,(559) 307-7252
+0,O’Reilly Auto Parts #5908,2017 San Ramon Valley Blvd. Suite A,San Ramon,94583,UsedOil,(925) 594-5288
+0,Tire Choice ,1131 Holly Drive ,Tracey ,95376,UsedOil,(585) 784-3378
+0,Tire Choice,861 Marina Village Parkway,Alameda,94501,UsedOil,(585) 784-3378
+0,Tire Choice,5288 A Clayton Road,Concord,94521,UsedOil,(585) 784-3378
+0,Tire Choice,3935 Alhambra Avenue,Martinez,94533,UsedOil,(585) 784-3378
+0,Tire Choice,431 San Pablo Avenue,Albany,94706,UsedOil,(585) 784-3378
+0,Tire Choice,3430 Castro Valley Blvd,Castro Valley,94546,UsedOil,(585) 784-3378
+0,Tire Choice,6028 Dougherty Road,Dublin,94568,UsedOil,(585) 784-3378
+0,Tire Choice,1485 First Street,Livermore,94550,UsedOil,(585) 784-3378
+0,Tire Choice,3420 Stanley Blvd,Pleasanton,94566,UsedOil,(585) 784-3378
+0,Tire Choice,4216 Rosewood Drive,Pleasanton,94588,UsedOil,(585) 784-3378
+0,Ford Store Morgan Hill,17045 Condit Road,Morgan Hill,95037,UsedOil,(408) 782-8277
+0,Wynns Motors,1216 Hillside Blvd.,Daly City,94014,UsedOil,(415) 341-2593
+0,AutoZone #6869,6071 Florin Rd.,Sacramento,95823,UsedOil,(916) 465-9785
+0,Sunrise Auto Service,2800 San Bruno Ave.,San Francisco,94134,UsedOil,(415) 467-7399
+0,Sunrise Auto Service,6050 Mission St.,Daly City,94014,UsedOil,(650) 991-1888
+0,Cervantes Auto,1417 4th Street,Mendota,93640,UsedOil,(559) 630-4843
+0,"Flag City Truck Services, Inc.",6386 W. Capitol Avenue,Lodi,95242,UsedOil,(209) 403-6700
+0,ATECH Auto Repair,5975 Mission St,Daly City,94014,UsedOil,(415) 337-5425
+0,M Yan Auto Repair,2579 Geneva Ave.,Daly City,94014,UsedOil,(415) 656-1818
+0,Pep Boys #6458,39165 Cedar Blvd.,Newark,94560,UsedOil,(215) 430-9226
+0,Pep Boys #6480,1823 Soscol Ave,Napa,94559,UsedOil,(215) 430-9226
+0,"Best Tires In Town 2, Inc",854 South Frankwood Ave,Reedley,93654,UsedOil,(559) 978-3735
+0,"Best Tires In Town, Inc",14660 East Manning Ave,Parlier,93648,UsedOil,(559) 978-3735
+0,Jackson Express Car Wash & Lube,106 French Bar Rd.,Jackson,95642,UsedOil,(209) 634-5882
+0,AutoZone #6722,1440 West Texas St.,Fairfield,94533,UsedOil,(707) 639-5072
+0,Pick-n-Pull Auto Dismantlers,4075 Happy Lane,Sacramento,95827,UsedOil,(619) 204-7625
+0,Kastner Honda,480 Soscol Ave,Napa,94559,UsedOil,(707) 927-2703
+0,Autonation Acura Stevens Creek,4747 Stevens Creek Blvd,Santa Clara,95051,UsedOil,(408) 758-5502
+0,Tire Choice,5310 Scotts Valley Drive Unit C,Scotts Valley,95066,UsedOil,(585) 784-3378
+0,Tire Choice,303 River Street,Santa Cruz,95060,UsedOil,(585) 784-3378
+0,Tire Choice,311 Capitola Road Extension,Santa Cruz,95062,UsedOil,(585) 784-3378
+0,Tire Choice,3002 Silver Creek Road,San Jose,95121,UsedOil,(585) 784-3378
+0,Tire Choice,317 First Street,Los Altos,94022,UsedOil,(585) 784-3378
+0,Tire Choice,231 Mount Hermon Road,Scotts Valley,95066,UsedOil,(585) 784-3378
+0,Tire Choice,577 University Ave,Los Gatos,95032,UsedOil,(585) 784-3378
+0,Tire Choice,5855 Cottle Rd,San Jose,95123,UsedOil,(585) 784-3378
+0,Tire Choice,970 Blossom Hill Road,San Jose,95123,UsedOil,(585) 784-3378
+0,Razzari Ford,1300 Auto Center Dr.,Merced,95304,UsedOil,(209) 383-3673
+0,Greenwood Ford,300 Gateway Dr,Hollister,95023,UsedOil,(831) 637-4461
+0,Speedee Oil Change & Auto Service,1600 Sullivan ave,Daly City,94015,UsedOil,(650) 755-8777
+0,AutoZone #6239,1331 Rocking W Dr.,Bishop,93514,UsedOil,(760) 784-2000
+0,AutoZone #4277,4201 Norwood Ave,Sacramento,95838,UsedOil,(916) 713-4416
+0,Mammoth Disposal Company,59 Commerce Dr.,Mammoth Lakes,93546,UsedOil,(760) 934-2201
+0,Elite Truck Repair & Wash,10399 East Stockton Blvd.,Elk Grove,95624,UsedOil,(916) 286-9800
+0,Stevens Creek Nissan,4855 Stevens Creek Blvd,Santa Clara,95051,UsedOil,(408) 984-2001
+0,Clayton Auto Service,4746 Clayton Rd.,Concord,94521,UsedOil,(925) 686-1000
+0,Mercedes-Benz of El Dorado Hills,1000 Mercedes Lane,El Dorado Hills,95762,UsedOil,(916) 570-2575
+0,Orinda Shell,9 Orinda Way,Orinda,94563,UsedOil,(925) 254-1486
+0,SpeeDee Oil Change & Auto Service,1343 Coffee Rd.,Modesto,95355,UsedOil,(925) 457-4667
+0,Maita Chevrolet,9650 Auto Center Dr.,Elk Grove,95757,UsedOil,(916) 647-8029
+0,Anderson Honda,1766 Embarcadero Rd.,Palo Alto,94303,UsedOil,(650) 843-6041
+0,BERKELEY HONDA AUTO CENTER,2777 Shattuck Ave.,Berkeley,94705,UsedOil,(510) 295-1400
+0,Stevens Creek Cadillac,4355 Stevens Creek Blvd.,Santa Clara,95051,UsedOil,(510) 449-6427
+0,Stevens Creek Chevrolet,3640 Stevens Creek Blvd,San Jose,95117,UsedOil,(510) 449-6427
+0,Selma Kia,2775 Auto Mall Drive,Selma,63662,UsedOil,(559) 896-5000
+0,Liberty Chevrolet,2755 Auto Mall Dr.,Selma,93662,UsedOil,(559) 896-5000
+0,Elk Grove Kia,8480 Laguna Grove Dr.,Elk GRove,95757,UsedOil,(916) 753-1000
+0,Selma Chrysler Dodge Jeep Ram,2725 Auto Mall Dr.,Selma,93662,UsedOil,(559) 896-5000
+0,Acura of Concord,1340 Concord Ave.,Concord,94520,UsedOil,(510) 449-6427
+0,Tracy Chrysler Dodge Jeep Ram,3460 Naglee Rd.,Tracy,95304,UsedOil,(562) 704-4000
+0,Seaside Chrysler Dodge Jeep Ram,3 Geary Plaza,Seaside,93955,UsedOil,(510) 449-6427
+0,Fremont Chevrolet,5850 Cushing Parkway,Fremont,94538,UsedOil,(510) 449-6427
+0,Fremont Buick GMC Cadillac,5939 Automall Parkway,Fremont,94538,UsedOil,(510) 449-6427
+0,Dublin Nissan,6450 Dublin Ct.,Dublin,94568,UsedOil,(510) 449-6427
+0,Concord Nissan,1290 Concord Ave,Concord,94520,UsedOil,(510) 449-6427
+0,Winn Kia of Fremont,5633 John Muir Dr.,Newark,94560,UsedOil,(510) 344-2013
+0,Winn Volkswagen,39695 Balentine Dr.,Newark,94560,UsedOil,(510) 668-8032
+0,Woodland Ford,346 Main St.,Woodland,95695,UsedOil,(530) 662-3255
+0,ProFleet Truck Lube,15453 North Thornton Rd.,Lodi,95242,UsedOil,(209) 333-8383
+0,ProFleet Truck Lube,24511 North Hwy 99,Acampo,95220,UsedOil,(209) 333-8383
+0,ProFleet Truck Lube,9050 Elkmont Way,Elk Grove,95624,UsedOil,(209) 333-8383
+0,Dublin Infiniti,4300 John Monego Ct.,Dublin,94568,UsedOil,(510) 449-6427
+0,Dublin Buick GMC,4400 John Monego Ct.,Dublin,94568,UsedOil,(510) 449-6427
+0,Woodland Motors,530 Quality Circle,Woodland,95776,UsedOil,(530) 662-3255
+0,AutoZone #6897,10336 Trinity Pkwy,Stockton,95219,UsedOil,(209) 616-6145
+0,AutoZone #5968,2043 Springs St.,Vallejo,94591,UsedOil,(707) 917-4722
+0,BMW of Fremont,5720 Cushing Parkway,Fremont,94538,UsedOil,(510) 224-4820
+0,O'Reilly Auto Parts #5997,1165 B Arnold Dr.,Martinez,94553,UsedOil,(417) 868-4215
+0,Oil Changers #821,3037 Sisk Rd.,Modesto,95350,UsedOil,(925) 734-5816
+0,Mercedes Benz of Fairfield,2950 Automall Pkwy,Fairfield,94533,UsedOil,(707) 430-0263
+0,Valvoline Instant Oil Change IH0001,2435 Main St,Oakley,94561,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0002,2749 Hillcrest Ave.,Antioch,94531,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0003,908 Diablo Ave.,Novato,94947,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0004,1799 19th Avenue,San Francisco,94122,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0005,1524 Second Street,San Rafael,94901,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0006,690 Mendocino Ave,Santa Rosa,95401,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0007 ,1760 Cavitt Dr.,Folsom,95630,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0008,1409 Main St.,Watsonville,95076,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0009,2879 South Rodeo Gulch Rd.,Soquel,95073,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0010,1042 North Davis Rd.,Salinas,93907,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0011,300 7th St,San Francisco,94103,UsedOil,(619) 780-5582
+0,Oil Changers #826,2014 Lyndell Terrace,Davis,95616,UsedOil,(925) 734-5816
+0,Valvoline Instant Oil Change IH0015,2225 West Cleveland Ave.,Madera,93637,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0018,5200 Squire Wells Way,Riverbank,95367,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0019,6231 North Blackstone Ave,Fresno,93710,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0020,120 Mchenry Ave,Modesto,95354,UsedOil,(619) 780-5582
+0,Valvoline Instant Oil Change IH0021,549 East Pacheco Blvd.,Los Banos,93635,UsedOil,(619) 780-5582
+0,Tribal Fire Station 42,500 Honpie Ct.,Placerville,95667,UsedOil,(530) 672-5293
+0,Golden State Nissan,650 Serramonte Blvd.,Colma,94014,UsedOil,(707) 392-7700
+0,Oilstop Drive Thru Oil Change,1375 Santa Rosa Ave.,Santa Rosa,95404,UsedOil,(520) 940-4044
+0,Autonation Honda Roseville Pre-Owned ,100 Automall Dr.,Roseville,95661,UsedOil,(916) 275-0010
+0,Dodge Chrysler Jeep Ram of Vacaville,681 Orange Dr.,Vacaville,95687,UsedOil,(707) 452-2583
+0,San Jose Conservation Corps,1560 Berger Dr.,San Jose,95112,UsedOil,(408) 764-7995
+0,Stevens Creek Subaru,3225 Stevens Creek Blvd.,San Jose,95117,UsedOil,(408) 691-0305
+0,Livermore Toyota,6200 Northfront Rd.,Livermore,94551,UsedOil,(925) 724-2800
+0,Keith's Auto Care, 11257 Coloma Rd. Ste. B9,Gold River,95670,UsedOil,(916) 852-0525
+0,Wise Auto Tech,2323 San Pablo Ave,Berkeley,94702,UsedOil,(510) 665-1060
+0,NTL Truck & Trailer Repair,8386 Gerber Rd. Ste. A,Sacramento,95828,UsedOil,(916) 869-0290
+0,Mercedes Benz of Modesto,3900 McHenry Ave.,Modesto,95356,UsedOil,(209) 248-4331
+0,Modesto Subaru,4360 McHenry Ave.,Modesto,95356,UsedOil,(209) 222-4918
+0,Oil Changers #830,420 Pioneer Ave.,Woodland,95776,UsedOil,(925) 734-5816
+0,Envision Honda of Milpitas,950 Thompson St,Milpitas,95035,UsedOil,(408) 770-5011
+0,Valvoline Instant Oil Change IH0027,1935 Market St,Concord,94520,UsedOil,(925) 825-7576
+0,Valvoline Instant Oil Change IH0028,1033 Arnold Dr.,Martinez,94553,UsedOil,(925) 825-7576
+0,Valvoline Instant Oil Change IH0029,3500 Alhambra Ave.,Martinez,94553,UsedOil,(925) 825-7576
+0,Valvoline Instant Oil Change IH0013,500 West El Camino Real,Mountain View,94040,UsedOil,(650) 399-3242
+0,O’Reilly Auto Parts #2591,170 East El Camino Real,Mountain View,94040,UsedOil,(417) 868-4215
+0,O'Reilly Auto Parts #2745,4540 South Mission St.,San Francisco,94112,UsedOil,(417) 868-4215
+0,O'Reilly Auto Parts #2799,8864 Madison Ave,Sacramento,95628,UsedOil,(417) 868-4215
+0,O'Reilly Auto Parts #3032,2300 16th St,San Francisco,94103,UsedOil,(417) 868-4215
+0,O'Reilly Auto Parts #3101,490 Court St,Santa Rosa,95407,UsedOil,(417) 868-4215
+0,O'Reilly Auto Parts #3562,133 Manor Dr,Pacifica,94044,UsedOil,(417) 868-4215
+0,O'Reilly Auto Parts #6137,3235 Yosemite Blvd,Modesto,95354,UsedOil,(417) 868-4215
+0,Tracy Volkswagen,2605 Auto Plaza Way,Tracy,95304,UsedOil,(209) 229-7929
+0,Fremont Ford,39700 Balentine Dr.,Newark,94560,UsedOil,(866) 769-9083
+0,Kia of Stockton,6215 Holman Rd,Stockton,95212,UsedOil,(562) 716-6100
+0,"Bay Tire Salvage and Supply, Inc.",160 Bliss Ave,Pittsburg,94565,Tires,(925) 303-5707
+0,Larry's Tire Mart,1453 S 7th St,Modesto,95351,Tires,(209) 522-9081
+0,"B & B Tire and Rubber Company, Inc.",4225 W Capitol Ave,West Sacramento,95691,Tires,(916) 375-0255
+0,Wally's Tire and Wheel,1020 N Madera Ave,Kerman,93630,Tires,(559) 846-6621
+0,Davis Street Transfer Station,2615 Davis St,San Leandro,94577,Tires,(510) 638-2303
+0,American Avenue Disposal,18950 W American Ave,Kerman,93630,Tires,(559) 600-6138
+0,Contra Costa Transfer & Recovery Station,951 Waterbird Way,Martinez,94553,Tires,(925) 313-8900
+0,Foothill Sanitary Landfill,6484 N Waverly Rd,Linden,95236,Tires,(209) 887-3969
+0,Lovelace Transfer Station,2323 Lovelace Rd,Manteca,95336,Tires,
+0,North County Sanitary Landfill and Recycling Cntr.,17720 E Harney Ln,Lodi,95240,Tires,(209) 468-3066
+0,Sunnyvale Material and Recovery Transfer Station (SMART),301 Carl Rd,Sunnyvale,94089,Tires,(408) 752-8530
+0,"West Coast Rubber Recycling, Inc.",1501 Lana Way,Hollister,95023,Tires,(831) 634-2800
+0,"Tri-C Manufacturing, Inc.",520 Harbor Blvd,West Sacramento,95691,Tires,(916) 371-1700
+0,"TSG Recycling Disposal, Inc.",2910 S Cherry Ave,Fresno,93706,Tires,(559) 442-0262
+0,"Waste Recovery West, Inc.",4554 S El Dorado St,Stockton,95206,Tires,(209) 234-0700
+0,Fast Tire - Coarsegold,9376 Road 24 1/2,Madera,93637,Tires,(559) 658-7133
+0,"North State Environmental, Inc.",214 Shaw Rd,South San Francisco,94080,Tires,(650) 588-2838
+0,Sonoma Truck and Auto Service,899 Broadway ,Sonoma,95476,Tires,(707) 996-4521
+0,"Bay Area Tire Recycling, Inc",21401 Curtis Street,Hayward,94545,Tires,(510) 887-8473
+0,"New Pride Tire, Inc. (Retreader)",8977 Railroad Avenue,Oakland,94621,Tires,(510) 569-9500
+0,"Peninsula Sanitary Service, Inc.",339 Bonair Siding Rd,Stanford,94305,Electronics,(650) 321-4236
+0,"CEAR, Inc.",3678 Lemay St,Mather,95655,Electronics,(916) 388-1777
+0,Goodwill Industries of the Greater East Bay,1301 30th Ave,Oakland,94601,Electronics,(510) 698-7200
+0,City of Watsonville,320 Harvest Dr,Watsonville,95076,Electronics,(831) 247-1026
+0,Santa Cruz County,1231 Buena Vista Dr,Watsonville,95076-8310,Electronics,(831) 454-2160
+0,Grey Bears,2710 Chanticleer Ave,Santa Cruz,95065,Electronics,(831) 479-1055
+0,Stanislaus County Fink Road Landfill,4000 Fink Rd,Crows Landing,95313,Electronics,(209) 837-4800
+0,Goodwill Industries of the Redwood Empire,651 Yolanda Ave,Santa Rosa,95404,Electronics,(707) 523-0550
+0,Sonoma County Waste Management Agency,4376 Stage Gulch Rd,Sonoma,95476,Electronics,(707) 565-3375
+0,"FRG Waste Resources, Inc.",100 Dodd Ct,American Canyon,94503,Electronics,(707) 647-3700
+0,Goodwill Industries of Sacramento Valley and Northern Nevada,6648 Franklin Blvd,Sacramento,95823-1005,Electronics,(916) 395-9000
+0,Conservation Corps North Bay,11 Pimentel Ct,Novato,94949,Electronics,(415) 454-4554
+0,Goodwill of Silicon Valley,950 N 7th St,San Jose,95112,Electronics,(408) 998-5774
+0,Mid Valley Disposal,15300 W Jensen Ave,Kerman,93630,Electronics,(559) 237-9425
+0,The Salvation Army (San Jose),702 W Taylor St,San Jose,95126,Electronics,(408) 286-3291
+0,"City of Folsom, Hazardous Materials",1300 Leidesdorff St,Folsom,95630,Electronics,(916) 461-6746
+0,Fremont Recycling and Transfer Station,41149 Boyce Rd,Fremont,94538,Electronics,(510) 252-0500
+0,County of Yolo,44090 County Road 28H,Woodland,95776,Electronics,(530) 666-8852
+0,Redwood Gospel Mission,1821 Piner Rd,Santa Rosa,95403,Electronics,(707) 578-1830
+0,E-Waste Recycling,15449 W A St,Kerman,93630,Electronics,(559) 333-0707
+0,Sipi Asset Recovery,30944 San Clemente St,Hayward,94544,Electronics,(847) 750-9350
+0,Fresno Economic Opportunities Commission Local Conservation Corps,1805 E California Ave,Fresno,93706,Electronics,(559) 264-1048
+0,Florin Perkins Public Disposal Site,4201 Florin Perkins Rd,Sacramento,95826,Electronics,(916) 443-5120
+0,"Pacific Coast Recycling, Inc.",5895 Obata Way,Gilroy,95020,Electronics,(408) 848-6811
+0,Salvation Army Adult Rehabilitation Center (Oakland),601 Webster St,Oakland,94607,Electronics,(510) 451-4514
+0,S & D Recycling,1149 Kansas Ave,Modesto,95351,Electronics,(209) 572-0942
+0,Sacramento Regional Conservation Corps,6100 27th St,Sacramento,95822,Electronics,(916) 386-8394
+0,"Zarc International, LLC",26 S Linden Ave,South San Francisco,94080,Electronics,(415) 215-8059
+0,"Tri Valley Recycling, Inc.",1988 E Alpine Ave,Stockton,95205,Electronics,(209) 463-7600
+0,"A.S.I Cyber Concepts, LLC",33548 Central Ave,Union City,94587,Electronics,(510) 468-2642
+0,City of Santa Cruz,605 Dimeo Ln,Santa Cruz,95060,Electronics,(831) 420-6275
+0,"Pleasant Paper Recycling, Inc.",1320 Galaxy Way,Concord,94520,Electronics,(925) 689-3900
+0,"Sun's Pad & Foam Recycling, Inc.",108 Medburn St,Concord,94520,Electronics,(925) 246-7990
+0,Surplus Service,3090 Osgood Ct,Fremont,94539,Electronics,(510) 226-0600
+0,Partners and Advocates for Remarkable Children and Adults (PARCA),24213 Clawiter Rd,Hayward,94545,Electronics,(650) 312-0725
+0,Salvation Army Adult Rehabilitation Center (Fresno),804 S Parallel Ave,Fresno,93721,Electronics,(718) 891-0912
+0,The Salvation Army Adult Rehabilitation Center (San Francisco),1500 Valencia St,San Francisco,94110-4406,Electronics,(415) 643-8000
+0,Stanislaus County Department of Environmental Resources,1710 Morgan Rd,Modesto,95358,Electronics,(209) 525-6700
+0,e-Recycling of California (Hayward),31702 Hayman St,Hayward,94544,Electronics,(800) 795-0993
+0,ewasteSF,2915 16th St,San Francisco,94103,Electronics,(415) 829-2119
+0,K & K Electronics,3422 Oakdale Rd,Modesto,95355,Electronics,(209) 551-0500
+0,Inyo County Recycling and Waste Management,110 Sunland Res Road,Bishop,93514,Electronics,(760) 873-7191
+0,"Recycling Industries, Inc.",4741 Watt Ave,North Highlands,95660,Electronics,(916) 452-3961
+0,"Y2K Electronics Recycling, LLC",44875 Industrial Dr,Fremont,94538,Electronics,(510) 925-9919
+0,"Bay Counties Waste Services, Inc.",301 Carl Rd,Sunnyvale,94089,Electronics,(408) 752-8530
+0,The County of Mariposa Public Works Solid Waste,5593 Highway 49 N,Mariposa,95338,Electronics,(209) 966-5165
+0,"Yolo Employment Services, Inc.",220 Harter Avenue,Woodland,95776,Electronics,(530) 662-8616
+0,"Elite Recycling Services, LLC",37366 Filbert Street,Newark,94560,Electronics,(510) 713-9500
+0,"Electronic Recyclers of America, LLC",3243 S East Ave,Fresno,93725,Electronics,(800) 374-3473
+0,Dunn and Son Recycling,2571 South Sarah Street,Fresno,93706,Electronics,(559) 264-7782
+0,Recology San Francisco,501 Tunnel Ave,San Francisco,94134,Electronics,(415) 330-1400
+0,The Salvation Army Adult Rehabilitation Center (Stockton),1247 S Wilson Way,Stockton,95205,Electronics,(209) 466-3871
+0,"GreenCitizen, Inc.",1831 Bayshore Highway,Burlingame,94010,Electronics,(650) 493-8700
+0,"Gilton Resource Recovery / Transfer Facility, Inc.",800 South McClure Road,Modesto,95357,Electronics,(209) 527-3781
+0,D & S Electronic Recycling,1310 North Crystal Avenue,Fresno,93728,Electronics,(559) 498-0580
+0,Solano Garbage Company,2901 Industrial Ct,Fairfield,94533,Electronics,(707) 437-8900
+0,"Professional Logistic Services, Inc.",901 North B Street,Sacramento,95811,Electronics,(916) 442-2107
+0,"South Bay Recycling, LLC",333 Shoreway Rd,San Carlos,94070,Electronics,(650) 802-8355
+0,Leghorn Hauling,1948 Leghorn Street,Mountain View,94043,Electronics,(650) 716-7531
+0,eWaste Sonoma: Computer & Electronics Recycling Center,3227 Santa Rosa Ave,Santa Rosa,95407,Electronics,(707) 755-0371
+0,E-Waste Gurus,201 Harris Ave,Sacramento,95838,Electronics,(916) 258-5853
+0,"Pena's Disposal, Inc.",12094 Avenue 408,Cutler,93615,Electronics,(559) 528-3909
+0,Davis Street Transfer Station,2615 Davis St,San Leandro,94577,Electronics,(510) 638-2303
+0,"Strawflower Electronics, Inc.",160 San Mateo Road,Half Moon Bay,94019,Electronics,(650) 726-8181
+0,San Joaquin County Office of Education,2040 East Fremont Street,Stockton,95205,Electronics,(209) 292-2700
+0,"Onsite Electronics Recycling, LLC",2331 Teepee Dr,Stockton,95205,Electronics,(209) 234-7994
+0,Asset Mover,2160 Elkins Way,Brentwood,94513,Electronics,(800) 516-4272
+0,"Go Green Sustainability Centers, Inc.",11480 Sunrise Gold Circle,Rancho Cordova,95742,Electronics,(800) 635-1486
+0,"Recycling Resource Recovery Systems, LLC",3110 Busch Rd,Pleasanton,94566,Electronics,(925) 846-4062
+0,Digital Green Global,875 Jarvis Drive,Morgan Hill,95037,Electronics,(408) 320-1560
+0,"Turlock Transfer, Inc.",1100 S Walnut Road,Turlock,95380,Electronics,(209) 668-7274
+0,San Jose Conservation Corps,1534 Berger Dr,San Jose,95112,Electronics,(408) 283-7171
+0,"Omega JV, Inc.",3449 Enterprise Ave,Hayward,94545,Electronics,(510) 582-1960
+0,Green EWaste Recycling Center,1664 Watson Court,Milpitas,95035,Electronics,(408) 287-3292
+0,"Ecycle Pros, Inc.",984 Dexter Way,Ripon,95366,Electronics,(209) 924-4385
+0,"Napa Recycling & Waste Services, LLC",820 Levitin Way,American Canyon,94503,Electronics,(707) 255-5200
+0,"Blue Line Transfer, Inc.",500 East Jamie Court,South San Francisco,94080,Electronics,(650) 589-4020
+0,A&J Electronics Recycling E-Waste,763 Mabury Rd,San Jose,95133,Electronics,(408) 490-4516
+0,"Goodwill Industries of San Francisco, San Mateo and Marin Counties",100 Utah Ave,South San Francisco,94080,Electronics,(415) 889-0815
+0,United Recycling,1503 Lone Palm,Modesto,95351,Electronics,(209) 707-5063
+0,"AERC Recycling Solutions, a Clean Earth Company",1733 Morgan Road,Modesto,95358,Electronics,(510) 429-1129
+0,United Cerebral Palsy of the North Bay,5100 Fulton Drive,Fairfield,94534,Electronics,(707) 430-4380
+0,"Freon Free, Inc.",1881 Walters Court,Fairfield,94533,Electronics,(707) 429-9013
+0,"Aria Sustainability, LLC",1219 Kansas Avenue,Modesto,95351,Electronics,(877) 424-1950
+0,Snowline Hospice,3961 El Dorado Road,Placerville,95667,Electronics,(530) 621-7820
+0,Computer & Technology Resource Center,620 Page Street,Berkeley,94710,Electronics,(415) 883-1428
+0,Calicomp Corp,660 Vista Way,Milpitas,95035,Electronics,(408) 955-7900
+0,"Upper Valley Recycling, Inc.",4380 Silverado Trail,Calistoga,94515,Electronics,(707) 963-7988
+0,"Renew Computers, Inc.",446 DuBois St,San Rafael,94901,Electronics,(415) 457-8801
+0,"Metech Recycling, Inc.",6200 Engle Way,Gilroy,95020,Electronics,(408) 848-3050
+0,San Francisco Conservation Corps,1698 Evans Avenue,San Francisco,94124,Electronics,(707) 569-4858
+0,"Green World Recycling, Inc.",531 Eckhardt Rd,Salinas,93908,Electronics,(831) 240-6117
+0,VGS Resource,8440 Belvedere Ave,Sacramento,95826,Electronics,(916) 662-4786
+0,Evergreen IT Solutions,37390 Centralmont Place,Fremont,94536,Electronics,(408) 612-1667
